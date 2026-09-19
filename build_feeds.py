@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 
 SOURCE = "https://feeds.buzzsprout.com/852289.rss"
 OUT = "feeds"
-PER = 10
+PER = 40
 
 req = urllib.request.Request(SOURCE, headers={"User-Agent": "Mozilla/5.0"})
 with urllib.request.urlopen(req, timeout=30) as r:
