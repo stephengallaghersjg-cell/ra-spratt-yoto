@@ -3,7 +3,7 @@
 <channel>
   <ns0:link href="https://rss.buzzsprout.com/852289.rss" rel="self" type="application/rss+xml" />
   <ns0:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
-  <title>R.A. Spratt Vol. 02 — Episodes 011–020</title>
+  <title>R.A. Spratt Vol. 02 — Episodes 041–080</title>
 
   <lastBuildDate>Thu, 17 Sep 2026 01:12:53 -0400</lastBuildDate>
   <link>http://www.raspratt.com</link>
@@ -18,7 +18,7 @@
   <ns2:author>R.A. Spratt</ns2:author>
   <ns2:type>episodic</ns2:type>
   <ns2:explicit>false</ns2:explicit>
-  <description>Custom chronological volume 2 of Bedtime Stories with R.A. Spratt. Episodes 11–20 from the official podcast feed.</description>
+  <description>Custom chronological volume 2 of Bedtime Stories with R.A. Spratt. Episodes 41–80 from the official podcast feed.</description>
   <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
   <ns2:keywords>ra spratt, bedtime stories, author, nanny piggins, friday barnes, peski kids, R.A., kids stories, car stories, road trip stories, fairy tales</ns2:keywords>
   <ns2:owner>
@@ -41,191 +41,784 @@
   </ns2:category>
   <ns1:person role="host" href="http://raspratt.com" img="https://storage.buzzsprout.com/dvl4jzsy7f5a4e6ezan7ddrah0sl">R.A. Spratt</ns1:person>
   <item>
-    <ns2:title>Live Show from BUC with 'Mr Wolf Pie' and 'Pirahna' stories</ns2:title>
-    <title>Live Show from BUC with 'Mr Wolf Pie' and 'Pirahna' stories</title>
-    <ns2:summary>This is a recording of a live story telling session I did for Bowral Uniting Church in the middle of the Covid-19 isolation. It was set up for local kids but we ended up having kids log in from all around Australia and even America. During the show I tell the stories of 'Mr Wolf Pie' and A Tall Tale of Ducks and Pirahna and you can hear me talking to the kids and answering their questions. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please...</ns2:summary>
-    <description>&lt;p&gt;This is a recording of a live story telling session I did for Bowral Uniting Church in the middle of the Covid-19 isolation. It was set up for local kids but we ended up having kids log in from all around Australia and even America. During the show I tell the stories of &amp;apos;Mr Wolf Pie&amp;apos; and A Tall Tale of Ducks and Pirahna and you can hear me talking to the kids and answering their questions.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;This is a recording of a live story telling session I did for Bowral Uniting Church in the middle of the Covid-19 isolation. It was set up for local kids but we ended up having kids log in from all around Australia and even America. During the show I tell the stories of &amp;apos;Mr Wolf Pie&amp;apos; and A Tall Tale of Ducks and Pirahna and you can hear me talking to the kids and answering their questions.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/4145618-live-show-from-buc-with-mr-wolf-pie-and-pirahna-stories.mp3" length="33431332" type="audio/mpeg" />
+    <ns2:title>'The Midas Touch ' as told by Nanny Piggins</ns2:title>
+    <title>'The Midas Touch ' as told by Nanny Piggins</title>
+    <ns2:summary>Nanny Piggins lures Derrick down to the kitchen where she is baking a cake, by promising to tell him the true story of 'King Midas' and what really happened in the Ancient Story Days. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to...</ns2:summary>
+    <description>&lt;p&gt;Nanny Piggins lures Derrick down to the kitchen where she is baking a cake, by promising to tell him the true story of &amp;apos;King Midas&amp;apos; and what really happened in the Ancient Story Days.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Nanny Piggins lures Derrick down to the kitchen where she is baking a cake, by promising to tell him the true story of &amp;apos;King Midas&amp;apos; and what really happened in the Ancient Story Days.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/9108290-the-midas-touch-as-told-by-nanny-piggins.mp3" length="13231333" type="audio/mpeg" />
     <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-4145618</guid>
-    <pubDate>Wed, 08 Jul 2020 06:00:00 +1000</pubDate>
-    <ns1:soundbite startTime="359.167" duration="32.0" />
-    <ns2:duration>2782</ns2:duration>
-    <ns2:keywords>RA Spratt, Nanny Piggins, author, bedtime story, Three Little Pigs, Mr Wolf Pie, Tall Tale, Ducks and Pirahna, Pig, Friday Barnes, Peski Kids, kids, stories</ns2:keywords>
-    <ns2:season>1</ns2:season>
-    <ns2:episode>20</ns2:episode>
-    <ns2:episodeType>full</ns2:episodeType>
-    <ns2:explicit>false</ns2:explicit>
-  </item>
-  <item>
-    <ns2:title>'The Pig Piper of Hamlin' told by Nanny Piggins</ns2:title>
-    <title>'The Pig Piper of Hamlin' told by Nanny Piggins</title>
-    <ns2:summary>While waiting an incredibly long time for medical treatment at their local emergency room, Nanny Piggins tells the tragic of her great great great great aunt, otherwise known as the Pig Piper of Hamlin. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt ...</ns2:summary>
-    <description>&lt;p&gt;While waiting an incredibly long time for medical treatment at their local emergency room, Nanny Piggins tells the tragic of her great great great great aunt, otherwise known as the Pig Piper of Hamlin.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;While waiting an incredibly long time for medical treatment at their local emergency room, Nanny Piggins tells the tragic of her great great great great aunt, otherwise known as the Pig Piper of Hamlin.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/4145276-the-pig-piper-of-hamlin-told-by-nanny-piggins.mp3" length="16843762" type="audio/mpeg" />
-    <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-4145276</guid>
-    <pubDate>Wed, 01 Jul 2020 06:00:00 +1000</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/4145276/transcript" type="text/html" />
-    <ns1:soundbite startTime="296.135" duration="31.0" />
-    <ns2:duration>1400</ns2:duration>
-    <ns2:keywords>RA Spratt, Nanny Piggins, author, bedtime story, Pig Piper of Hamlin, Pig, Friday Barnes, Peski Kids, kids, stories</ns2:keywords>
-    <ns2:season>1</ns2:season>
-    <ns2:episode>19</ns2:episode>
-    <ns2:episodeType>full</ns2:episodeType>
-    <ns2:explicit>false</ns2:explicit>
-  </item>
-  <item>
-    <ns2:title>'The Gingerbread Man' told by Nanny Piggins</ns2:title>
-    <title>'The Gingerbread Man' told by Nanny Piggins</title>
-    <ns2:summary>Early one morning, while waiting for the chocolate shop to open, Nanny Piggins tells the story of her great Aunt Marg from the olden story days and how she baked a Gingerbread Man who came to life and was very reluctant to agree to being eaten. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link......</ns2:summary>
-    <description>&lt;p&gt;Early one morning, while waiting for the chocolate shop to open, Nanny Piggins tells the story of her great Aunt Marg from the olden story days and how she baked a Gingerbread Man who came to life and was very reluctant to agree to being eaten.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;Early one morning, while waiting for the chocolate shop to open, Nanny Piggins tells the story of her great Aunt Marg from the olden story days and how she baked a Gingerbread Man who came to life and was very reluctant to agree to being eaten.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/4130906-the-gingerbread-man-told-by-nanny-piggins.mp3" length="11886235" type="audio/mpeg" />
-    <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-4130906</guid>
-    <pubDate>Wed, 24 Jun 2020 06:00:00 +1000</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/4130906/transcript" type="text/html" />
-    <ns1:soundbite startTime="547.177" duration="32.0" />
-    <ns2:duration>986</ns2:duration>
-    <ns2:keywords>RA Spratt, Nanny Piggins, author, bedtime story, Gingerbread Man, Pig, Friday Barnes, Peski Kids, kids, stories</ns2:keywords>
-    <ns2:season>1</ns2:season>
-    <ns2:episode>18</ns2:episode>
-    <ns2:episodeType>full</ns2:episodeType>
-    <ns2:explicit>false</ns2:explicit>
-  </item>
-  <item>
-    <ns2:title>'The Tortoise and the Hare... and the Pig' told by Nanny Piggins</ns2:title>
-    <title>'The Tortoise and the Hare... and the Pig' told by Nanny Piggins</title>
-    <ns2:summary>Late one night, after eating an incredibly large amount of ice cream Nanny Piggins tells the children the story of her distant relative from Ancient Greece, Aesop Piggins and the time she got in a foot race with a tortoise and a hare. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://b...</ns2:summary>
-    <description>&lt;p&gt;Late one night, after eating an incredibly large amount of ice cream Nanny Piggins tells the children the story of her distant relative from Ancient Greece, Aesop Piggins and the time she got in a foot race with a tortoise and a hare.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;Late one night, after eating an incredibly large amount of ice cream Nanny Piggins tells the children the story of her distant relative from Ancient Greece, Aesop Piggins and the time she got in a foot race with a tortoise and a hare.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/4116188-the-tortoise-and-the-hare-and-the-pig-told-by-nanny-piggins.mp3" length="11226424" type="audio/mpeg" />
-    <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-4116188</guid>
-    <pubDate>Wed, 17 Jun 2020 06:00:00 +1000</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/4116188/transcript" type="text/html" />
-    <ns1:soundbite startTime="418.972" duration="37.0" />
-    <ns2:duration>931</ns2:duration>
-    <ns2:keywords>RA Spratt, Nanny Piggins, author, bedtime story, Aesop, Tortoise and Hair, Pig, Friday Barnes, Peski Kids, kids, stories</ns2:keywords>
-    <ns2:season>1</ns2:season>
-    <ns2:episode>17</ns2:episode>
-    <ns2:episodeType>full</ns2:episodeType>
-    <ns2:explicit>false</ns2:explicit>
-  </item>
-  <item>
-    <ns2:title>'The Emperor's New Clothes' told by Nanny Piggins</ns2:title>
-    <title>'The Emperor's New Clothes' told by Nanny Piggins</title>
-    <ns2:summary>Nanny Piggins tells the story of the time her no-good brother Bramwell became a tailor and got in trouble with the local royalty. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/liv...</ns2:summary>
-    <description>&lt;p&gt;Nanny Piggins tells the story of the time her no-good brother Bramwell became a tailor and got in trouble with the local royalty.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;Nanny Piggins tells the story of the time her no-good brother Bramwell became a tailor and got in trouble with the local royalty.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/3770759-the-emperor-s-new-clothes-told-by-nanny-piggins.mp3" length="15827498" type="audio/mpeg" />
-    <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-3770759</guid>
-    <pubDate>Wed, 10 Jun 2020 10:00:00 +1000</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/3770759/transcript" type="text/html" />
-    <ns1:soundbite startTime="54.367" duration="30.0" />
-    <ns2:duration>1315</ns2:duration>
-    <ns2:keywords>RA Spratt, Nanny Piggins, author, bedtime story, Emperors new clothes, chocolate, Pig, Friday Barnes, Peski Kids, kids, stories</ns2:keywords>
-    <ns2:season>1</ns2:season>
-    <ns2:episode>16</ns2:episode>
-    <ns2:episodeType>full</ns2:episodeType>
-    <ns2:explicit>false</ns2:explicit>
-  </item>
-  <item>
-    <ns2:title>A Tall Tale About Ducks... and Pirahna</ns2:title>
-    <title>A Tall Tale About Ducks... and Pirahna</title>
-    <ns2:summary>Mum and Tammy take the dog for a walk and imagine some very strange goings on in the creek. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
-    <description>&lt;p&gt;Mum and Tammy take the dog for a walk and imagine some very strange goings on in the creek.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;Mum and Tammy take the dog for a walk and imagine some very strange goings on in the creek.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/3808358-a-tall-tale-about-ducks-and-pirahna.mp3" length="11440472" type="audio/mpeg" />
-    <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-3808358</guid>
-    <pubDate>Wed, 03 Jun 2020 06:00:00 +1000</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/3808358/transcript" type="text/html" />
-    <ns1:soundbite startTime="181.0" duration="35.5" />
-    <ns2:duration>949</ns2:duration>
-    <ns2:keywords>RA Spratt, Friday Barnes, Nanny Piggins, author, bedtime story, creek, ducks, pirahna, Friday Barnes, Peski Kids, kids, stories</ns2:keywords>
-    <ns2:season>1</ns2:season>
-    <ns2:episode>15</ns2:episode>
-    <ns2:episodeType>full</ns2:episodeType>
-    <ns2:explicit>false</ns2:explicit>
-  </item>
-  <item>
-    <ns2:title>'Hansel and Gretel' told by Nanny Piggins</ns2:title>
-    <title>'Hansel and Gretel' told by Nanny Piggins</title>
-    <ns2:summary>When detained by the police for starting a riot at the local supermarket, Nanny Piggins tells the children a story about two distant cousins of hers called Hansel and Gretel. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live s...</ns2:summary>
-    <description>&lt;p&gt;When detained by the police for starting a riot at the local supermarket, Nanny Piggins tells the children a story about two distant cousins of hers called Hansel and Gretel.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;When detained by the police for starting a riot at the local supermarket, Nanny Piggins tells the children a story about two distant cousins of hers called Hansel and Gretel.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/3822308-hansel-and-gretel-told-by-nanny-piggins.mp3" length="15939704" type="audio/mpeg" />
-    <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-3822308</guid>
-    <pubDate>Wed, 27 May 2020 06:00:00 +1000</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/3822308/transcript" type="text/html" />
-    <ns1:soundbite startTime="425.138" duration="35.5" />
-    <ns2:duration>1324</ns2:duration>
-    <ns2:keywords>RA Spratt, Nanny Piggins, author, bedtime story, Hansel and Gretel, Pig, Friday Barnes, Peski Kids, kids, stories</ns2:keywords>
-    <ns2:season>1</ns2:season>
-    <ns2:episode>14</ns2:episode>
-    <ns2:episodeType>full</ns2:episodeType>
-    <ns2:explicit>false</ns2:explicit>
-  </item>
-  <item>
-    <ns2:title>Friday Barnes and The Case of the Missing Dollar Coin</ns2:title>
-    <title>Friday Barnes and The Case of the Missing Dollar Coin</title>
-    <ns2:summary>When the Vice Principal sets a trap to catch a thief, Friday proves why setting traps is a terrible idea. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
-    <description>&lt;p&gt;When the Vice Principal sets a trap to catch a thief, Friday proves why setting traps is a terrible idea.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;When the Vice Principal sets a trap to catch a thief, Friday proves why setting traps is a terrible idea.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/3672253-friday-barnes-and-the-case-of-the-missing-dollar-coin.mp3" length="10120796" type="audio/mpeg" />
-    <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-3672253</guid>
-    <pubDate>Wed, 20 May 2020 06:00:00 +1000</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/3672253/transcript" type="text/html" />
-    <ns1:soundbite startTime="341.525" duration="34.0" />
-    <ns2:duration>839</ns2:duration>
+    <guid isPermaLink="false">Buzzsprout-9108290</guid>
+    <pubDate>Wed, 01 Sep 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/9108290/transcript" type="text/html" />
+    <ns2:duration>1098</ns2:duration>
     <ns2:keywords />
     <ns2:season>1</ns2:season>
-    <ns2:episode>13</ns2:episode>
+    <ns2:episode>80</ns2:episode>
     <ns2:episodeType>full</ns2:episodeType>
     <ns2:explicit>false</ns2:explicit>
   </item>
   <item>
-    <ns2:title>A Tall Tale About the Moon... and Cows</ns2:title>
-    <title>A Tall Tale About the Moon... and Cows</title>
-    <ns2:summary>While out walking the dog one night, Tammy's Mum tells the most outrageous story about the origin of the moon and the cows responsible. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.c...</ns2:summary>
-    <description>&lt;p&gt;While out walking the dog one night, Tammy&amp;apos;s Mum tells the most outrageous story about the origin of the moon and the cows responsible.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;While out walking the dog one night, Tammy&amp;apos;s Mum tells the most outrageous story about the origin of the moon and the cows responsible.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/3670876-a-tall-tale-about-the-moon-and-cows.mp3" length="6197697" type="audio/mpeg" />
+    <ns2:title>Nanny Piggins and the Psychic Gift</ns2:title>
+    <title>Nanny Piggins and the Psychic Gift</title>
+    <ns2:summary>When Nanny Piggins accidentally damages a cake stand at the local Transport Museum while chasing the curator around in a World War One tri-plane, she has to make some fast cash. Luckily it turns out she has a psychic gift - and her fortune telling business soon does a roaring trade. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3...</ns2:summary>
+    <description>&lt;p&gt;When Nanny Piggins accidentally damages a cake stand at the local Transport Museum while chasing the curator around in a World War One tri-plane, she has to make some fast cash. Luckily it turns out she has a psychic gift - and her fortune telling business soon does a roaring trade.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When Nanny Piggins accidentally damages a cake stand at the local Transport Museum while chasing the curator around in a World War One tri-plane, she has to make some fast cash. Luckily it turns out she has a psychic gift - and her fortune telling business soon does a roaring trade.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/9071464-nanny-piggins-and-the-psychic-gift.mp3" length="20790629" type="audio/mpeg" />
     <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-3670876</guid>
-    <pubDate>Wed, 13 May 2020 06:00:00 +1000</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/3670876/transcript" type="text/html" />
-    <ns1:soundbite startTime="77.055" duration="34.0" />
-    <ns2:duration>512</ns2:duration>
+    <guid isPermaLink="false">Buzzsprout-9071464</guid>
+    <pubDate>Wed, 25 Aug 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/9071464/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/9071464/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/9071464/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/9071464/transcript.vtt" type="text/vtt" />
+    <ns2:duration>1728</ns2:duration>
     <ns2:keywords />
     <ns2:season>1</ns2:season>
-    <ns2:episode>12</ns2:episode>
+    <ns2:episode>79</ns2:episode>
     <ns2:episodeType>full</ns2:episodeType>
     <ns2:explicit>false</ns2:explicit>
   </item>
   <item>
-    <ns2:title>'Little Red Riding Pig' told by Nanny Piggins</ns2:title>
-    <title>'Little Red Riding Pig' told by Nanny Piggins</title>
-    <ns2:summary>After accidentally eating a large amount of coffee cake, the children need a good bedtime story. So Nanny Piggins tells them the tale of one of her distant yet fabulously glamorous relatives, Little Red Riding Pig. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/stor...</ns2:summary>
-    <description>&lt;p&gt;After accidentally eating a large amount of coffee cake, the children need a good bedtime story. So Nanny Piggins tells them the tale of one of her distant yet fabulously glamorous relatives, Little Red Riding Pig.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;After accidentally eating a large amount of coffee cake, the children need a good bedtime story. So Nanny Piggins tells them the tale of one of her distant yet fabulously glamorous relatives, Little Red Riding Pig.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/3141601-little-red-riding-pig-told-by-nanny-piggins.mp3" length="9681296" type="audio/mpeg" />
+    <ns2:title>'The Snow Queen' as told by Nanny Piggins</ns2:title>
+    <title>'The Snow Queen' as told by Nanny Piggins</title>
+    <ns2:summary>One Saturday morning, when forced to take over her local library's storytime or be arrested for verbal abuse, Nanny Piggins tells the tale of her distant relative Annabel Piggins. The pig who inspired the famous Danish folk tale 'The Snow Queen'. Suffice it to say, the original version got just about everything wrong.   Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books...</ns2:summary>
+    <description>&lt;p&gt;One Saturday morning, when forced to take over her local library&amp;apos;s storytime or be arrested for verbal abuse, Nanny Piggins tells the tale of her distant relative Annabel Piggins. The pig who inspired the famous Danish folk tale &amp;apos;The Snow Queen&amp;apos;. Suffice it to say, the original version got just about everything wrong.&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;One Saturday morning, when forced to take over her local library&amp;apos;s storytime or be arrested for verbal abuse, Nanny Piggins tells the tale of her distant relative Annabel Piggins. The pig who inspired the famous Danish folk tale &amp;apos;The Snow Queen&amp;apos;. Suffice it to say, the original version got just about everything wrong.&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/9029971-the-snow-queen-as-told-by-nanny-piggins.mp3" length="9461232" type="audio/mpeg" />
     <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-3141601</guid>
-    <pubDate>Wed, 06 May 2020 06:00:00 +1000</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/3141601/transcript" type="text/html" />
-    <ns1:soundbite startTime="143.154" duration="30.0" />
-    <ns2:duration>803</ns2:duration>
-    <ns2:keywords>RA Spratt, Nanny Piggins, author, bedtime story, Little Red Riding, Pig, Friday Barnes, Peski Kids, kids, stories</ns2:keywords>
+    <guid isPermaLink="false">Buzzsprout-9029971</guid>
+    <pubDate>Wed, 18 Aug 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/9029971/transcript" type="text/html" />
+    <ns2:duration>784</ns2:duration>
+    <ns2:keywords />
     <ns2:season>1</ns2:season>
-    <ns2:episode>11</ns2:episode>
+    <ns2:episode>78</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'The Little Red Pig' as told by Nanny Piggins</ns2:title>
+    <title>'The Little Red Pig' as told by Nanny Piggins</title>
+    <ns2:summary>Nanny Piggins tells the children a tragic tale of hardship endured by her great times 47 greats aunt, Little Red Pig in the olden story days. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://rasp...</ns2:summary>
+    <description>&lt;p&gt;Nanny Piggins tells the children a tragic tale of hardship endured by her great times 47 greats aunt, Little Red Pig in the olden story days.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Nanny Piggins tells the children a tragic tale of hardship endured by her great times 47 greats aunt, Little Red Pig in the olden story days.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8984565-the-little-red-pig-as-told-by-nanny-piggins.mp3" length="10569355" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8984565</guid>
+    <pubDate>Wed, 11 Aug 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8984565/transcript" type="text/html" />
+    <ns1:soundbite startTime="177.0" duration="59.5" />
+    <ns2:duration>877</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>77</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>A Tall Tale about Cats, Dogs and Fighting Crime with the Queen</ns2:title>
+    <title>A Tall Tale about Cats, Dogs and Fighting Crime with the Queen</title>
+    <ns2:summary>After a tough day of work, Mum picks Tammy up from school and it turns out that Tammy may have had the most brilliant idea in the history of ideas. ...at least in Mum's twisted opinion Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket t...</ns2:summary>
+    <description>&lt;p&gt;After a tough day of work, Mum picks Tammy up from school and it turns out that Tammy may have had the most brilliant idea in the history of ideas. ...at least in Mum&amp;apos;s twisted opinion&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;After a tough day of work, Mum picks Tammy up from school and it turns out that Tammy may have had the most brilliant idea in the history of ideas. ...at least in Mum&amp;apos;s twisted opinion&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8946954-a-tall-tale-about-cats-dogs-and-fighting-crime-with-the-queen.mp3" length="8213039" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8946954</guid>
+    <pubDate>Wed, 04 Aug 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8946954/transcript" type="text/html" />
+    <ns2:duration>680</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>76</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Friday Barnes and the River Challenge</ns2:title>
+    <title>Friday Barnes and the River Challenge</title>
+    <ns2:summary>This is chapter 12 from 'Friday Barnes 6, Danger Ahead' the book that takes place when Friday and her classmates go away to wilderness camp. In this chapter, they are set the challenge of retrieving supplies from the far side of a river. Friday hopes brains will count for more than brawn and finally their team will have a chance of winning. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show T...</ns2:summary>
+    <description>&lt;p&gt;This is chapter 12 from &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; the book that takes place when Friday and her classmates go away to wilderness camp. In this chapter, they are set the challenge of retrieving supplies from the far side of a river. Friday hopes brains will count for more than brawn and finally their team will have a chance of winning.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;This is chapter 12 from &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; the book that takes place when Friday and her classmates go away to wilderness camp. In this chapter, they are set the challenge of retrieving supplies from the far side of a river. Friday hopes brains will count for more than brawn and finally their team will have a chance of winning.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8909802-friday-barnes-and-the-river-challenge.mp3" length="12428526" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8909802</guid>
+    <pubDate>Wed, 28 Jul 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8909802/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8909802/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8909802/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8909802/transcript.vtt" type="text/vtt" />
+    <ns2:duration>1032</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>75</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'Medusa' as told by Nanny Piggins</ns2:title>
+    <title>'Medusa' as told by Nanny Piggins</title>
+    <ns2:summary>When Samantha has to study the Ancient Greek story of Medusa for school, the library has run out of books on the subject. Luckily Nanny Piggins had a relative who was there. So she knows what really happened on that island all those years ago.  Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this li...</ns2:summary>
+    <description>&lt;p&gt;When Samantha has to study the Ancient Greek story of Medusa for school, the library has run out of books on the subject. Luckily Nanny Piggins had a relative who was there. So she knows what really happened on that island all those years ago. &lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When Samantha has to study the Ancient Greek story of Medusa for school, the library has run out of books on the subject. Luckily Nanny Piggins had a relative who was there. So she knows what really happened on that island all those years ago. &lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8873007-medusa-as-told-by-nanny-piggins.mp3" length="12011603" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8873007</guid>
+    <pubDate>Wed, 21 Jul 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8873007/transcript" type="text/html" />
+    <ns2:duration>997</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>74</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'Chicken Little Brain' as told by Nanny Piggins</ns2:title>
+    <title>'Chicken Little Brain' as told by Nanny Piggins</title>
+    <ns2:summary>One night, after eating a particularly large amount of dessert, Nanny Piggins tells the tale of a chicken with a mysterious head injury and the royal monarch who dealt with it. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live...</ns2:summary>
+    <description>&lt;p&gt;One night, after eating a particularly large amount of dessert, Nanny Piggins tells the tale of a chicken with a mysterious head injury and the royal monarch who dealt with it.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;One night, after eating a particularly large amount of dessert, Nanny Piggins tells the tale of a chicken with a mysterious head injury and the royal monarch who dealt with it.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8847925-chicken-little-brain-as-told-by-nanny-piggins.mp3" length="10496634" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8847925</guid>
+    <pubDate>Wed, 14 Jul 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8847925/transcript" type="text/html" />
+    <ns2:duration>871</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>73</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'Pig in Boots' as told by Nanny Piggins</ns2:title>
+    <title>'Pig in Boots' as told by Nanny Piggins</title>
+    <ns2:summary>When the third son of a miller is left nothing more than a talking pig in his father's will, as punishment for becoming a vegetarian, he thinks he's had a raw deal. But this pig is a Piggins and therefore should not be underestimated. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://b...</ns2:summary>
+    <description>&lt;p&gt;When the third son of a miller is left nothing more than a talking pig in his father&amp;apos;s will, as punishment for becoming a vegetarian, he thinks he&amp;apos;s had a raw deal. But this pig is a Piggins and therefore should not be underestimated.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When the third son of a miller is left nothing more than a talking pig in his father&amp;apos;s will, as punishment for becoming a vegetarian, he thinks he&amp;apos;s had a raw deal. But this pig is a Piggins and therefore should not be underestimated.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8807445-pig-in-boots-as-told-by-nanny-piggins.mp3" length="11708177" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8807445</guid>
+    <pubDate>Wed, 07 Jul 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8807445/transcript" type="text/html" />
+    <ns2:duration>972</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>72</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Friday Barnes and Case of the Wet Boy</ns2:title>
+    <title>Friday Barnes and Case of the Wet Boy</title>
+    <ns2:summary>Friday Barnes is called in to help when her hapless repeat client Parker is found asleep on the polo field after a night of heavy rain. It appears that he has been the victim of a prank, but Friday soon realises there is more to his dilemma than meets the eye. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee ...</ns2:summary>
+    <description>&lt;p&gt;Friday Barnes is called in to help when her hapless repeat client Parker is found asleep on the polo field after a night of heavy rain. It appears that he has been the victim of a prank, but Friday soon realises there is more to his dilemma than meets the eye.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Friday Barnes is called in to help when her hapless repeat client Parker is found asleep on the polo field after a night of heavy rain. It appears that he has been the victim of a prank, but Friday soon realises there is more to his dilemma than meets the eye.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8723558-friday-barnes-and-case-of-the-wet-boy.mp3" length="13081482" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8723558</guid>
+    <pubDate>Wed, 30 Jun 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8723558/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8723558/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8723558/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8723558/transcript.vtt" type="text/vtt" />
+    <ns2:duration>1086</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>71</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>A Tall Tale about Cardboard Boxes and Al Capone</ns2:title>
+    <title>A Tall Tale about Cardboard Boxes and Al Capone</title>
+    <ns2:summary>While walking to school on Athletics carnival day, Mum tells Tammy about the child capturing techniques she learned at mothering school (a fictional institution she claims to have attended) and how these techniques were by the prohibition busters at the FBI in the 1930's. (NB. Mum is not a great believer in fact checking her stories). Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy ...</ns2:summary>
+    <description>&lt;p&gt;While walking to school on Athletics carnival day, Mum tells Tammy about the child capturing techniques she learned at mothering school (a fictional institution she claims to have attended) and how these techniques were by the prohibition busters at the FBI in the 1930&amp;apos;s. (NB. Mum is not a great believer in fact checking her stories).&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;While walking to school on Athletics carnival day, Mum tells Tammy about the child capturing techniques she learned at mothering school (a fictional institution she claims to have attended) and how these techniques were by the prohibition busters at the FBI in the 1930&amp;apos;s. (NB. Mum is not a great believer in fact checking her stories).&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8727761-a-tall-tale-about-cardboard-boxes-and-al-capone.mp3" length="10923579" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8727761</guid>
+    <pubDate>Wed, 23 Jun 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8727761/transcript" type="text/html" />
+    <ns2:duration>906</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>70</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'George Washington and the Cherry Tree' as told by Nanny Piggins</ns2:title>
+    <title>'George Washington and the Cherry Tree' as told by Nanny Piggins</title>
+    <ns2:summary>When Derrick learns about George Washington at school, Nanny Piggins tells him what really happened according to the first hand account of her Great Great Great Great Great Aunt Anna Piggins. Spoiler alert - this story also reveals what really happened to make the Venus De Milo lose her arms. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://am...</ns2:summary>
+    <description>&lt;p&gt;When Derrick learns about George Washington at school, Nanny Piggins tells him what really happened according to the first hand account of her Great Great Great Great Great Aunt Anna Piggins. Spoiler alert - this story also reveals what really happened to make the Venus De Milo lose her arms.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When Derrick learns about George Washington at school, Nanny Piggins tells him what really happened according to the first hand account of her Great Great Great Great Great Aunt Anna Piggins. Spoiler alert - this story also reveals what really happened to make the Venus De Milo lose her arms.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8698788-george-washington-and-the-cherry-tree-as-told-by-nanny-piggins.mp3" length="11053703" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8698788</guid>
+    <pubDate>Wed, 16 Jun 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8698788/transcript" type="text/html" />
+    <ns2:duration>917</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>69</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Nanny Piggins Joins Neighbourhood Watch</ns2:title>
+    <title>Nanny Piggins Joins Neighbourhood Watch</title>
+    <ns2:summary>This is a story from the third book in the Nanny Piggins series, 'Nanny Piggins and the Runaway Lion'. Nanny Piggins is persuaded to join her local Neighbourhood Watch mainly by  the tray of free doughnuts at the meeting she attends, but her foray into crime solving does not go to plan. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amz...</ns2:summary>
+    <description>&lt;p&gt;This is a story from the third book in the Nanny Piggins series, &amp;apos;Nanny Piggins and the Runaway Lion&amp;apos;. Nanny Piggins is persuaded to join her local Neighbourhood Watch mainly by  the tray of free doughnuts at the meeting she attends, but her foray into crime solving does not go to plan.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;This is a story from the third book in the Nanny Piggins series, &amp;apos;Nanny Piggins and the Runaway Lion&amp;apos;. Nanny Piggins is persuaded to join her local Neighbourhood Watch mainly by  the tray of free doughnuts at the meeting she attends, but her foray into crime solving does not go to plan.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8635894-nanny-piggins-joins-neighbourhood-watch.mp3" length="20713839" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8635894</guid>
+    <pubDate>Wed, 09 Jun 2021 06:00:00 +1000</pubDate>
+    <ns2:duration>1722</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>68</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'The Little Merpig' as told by Nanny Piggins</ns2:title>
+    <title>'The Little Merpig' as told by Nanny Piggins</title>
+    <ns2:summary>While waiting in the pharmacy, Nanny Piggins tells the children and Boris the story of her fabulously glamourous great great great great great (times 23 greats) aunt Ariel Piggins - otherwise known as - the Little Merpig. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.c...</ns2:summary>
+    <description>&lt;p&gt;While waiting in the pharmacy, Nanny Piggins tells the children and Boris the story of her fabulously glamourous great great great great great (times 23 greats) aunt Ariel Piggins - otherwise known as - the Little Merpig.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;While waiting in the pharmacy, Nanny Piggins tells the children and Boris the story of her fabulously glamourous great great great great great (times 23 greats) aunt Ariel Piggins - otherwise known as - the Little Merpig.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8612409-the-little-merpig-as-told-by-nanny-piggins.mp3" length="9175981" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8612409</guid>
+    <pubDate>Wed, 02 Jun 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8612409/transcript" type="text/html" />
+    <ns2:duration>761</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>67</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'Robin Hood' as told by Nanny Piggins</ns2:title>
+    <title>'Robin Hood' as told by Nanny Piggins</title>
+    <ns2:summary>When Nanny Piggins finds out that Samantha has been learning about Robin Hood at school, she tells her the true story of her distant relative and the forgotten story of the cake she ate. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket...</ns2:summary>
+    <description>&lt;p&gt;When Nanny Piggins finds out that Samantha has been learning about Robin Hood at school, she tells her the true story of her distant relative and the forgotten story of the cake she ate.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When Nanny Piggins finds out that Samantha has been learning about Robin Hood at school, she tells her the true story of her distant relative and the forgotten story of the cake she ate.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8570340-robin-hood-as-told-by-nanny-piggins.mp3" length="9391321" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8570340</guid>
+    <pubDate>Wed, 26 May 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8570340/transcript" type="text/html" />
+    <ns2:duration>778</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>66</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>A Tall Tale about the Extinction of the Dinosaurs... and Cherry Blossum</ns2:title>
+    <title>A Tall Tale about the Extinction of the Dinosaurs... and Cherry Blossum</title>
+    <ns2:summary>When Mum and Tammy are walking to school they spot a small spring of cherry blossum, which makes them wonder about the real cause of the extinction of the dinosaurs. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use t...</ns2:summary>
+    <description>&lt;p&gt;When Mum and Tammy are walking to school they spot a small spring of cherry blossum, which makes them wonder about the real cause of the extinction of the dinosaurs.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When Mum and Tammy are walking to school they spot a small spring of cherry blossum, which makes them wonder about the real cause of the extinction of the dinosaurs.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8539118-a-tall-tale-about-the-extinction-of-the-dinosaurs-and-cherry-blossum.mp3" length="8215878" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8539118</guid>
+    <pubDate>Wed, 19 May 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8539118/transcript" type="text/html" />
+    <ns1:soundbite startTime="19.82" duration="30.0" />
+    <ns2:duration>681</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>65</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Friday Barnes and the Case of the Disappearing Doctor</ns2:title>
+    <title>Friday Barnes and the Case of the Disappearing Doctor</title>
+    <ns2:summary>Friday is horrified when her Dad suddenly appears at Highcrest Academy and takes over a physics lesson. But she is even more shocked when he explains the reason for his unexpected arrival - her mother has gone missing! Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/...</ns2:summary>
+    <description>&lt;p&gt;Friday is horrified when her Dad suddenly appears at Highcrest Academy and takes over a physics lesson. But she is even more shocked when he explains the reason for his unexpected arrival - her mother has gone missing!&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Friday is horrified when her Dad suddenly appears at Highcrest Academy and takes over a physics lesson. But she is even more shocked when he explains the reason for his unexpected arrival - her mother has gone missing!&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8484773-friday-barnes-and-the-case-of-the-disappearing-doctor.mp3" length="17646569" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8484773</guid>
+    <pubDate>Wed, 12 May 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8484773/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8484773/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8484773/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8484773/transcript.vtt" type="text/vtt" />
+    <ns1:soundbite startTime="205.0" duration="26.5" />
+    <ns2:duration>1466</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>64</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'The Three Billy Goats Gruff' as told by Nanny Piggins</ns2:title>
+    <title>'The Three Billy Goats Gruff' as told by Nanny Piggins</title>
+    <ns2:summary>When Michael is cast as a troll in a school play, Nanny Piggins tells the children the real story of 'The Three Billy Goats Gruff'. Spoiler alert - there were no goats in it. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live s...</ns2:summary>
+    <description>&lt;p&gt;When Michael is cast as a troll in a school play, Nanny Piggins tells the children the real story of &amp;apos;The Three Billy Goats Gruff&amp;apos;. Spoiler alert - there were no goats in it.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When Michael is cast as a troll in a school play, Nanny Piggins tells the children the real story of &amp;apos;The Three Billy Goats Gruff&amp;apos;. Spoiler alert - there were no goats in it.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8448752-the-three-billy-goats-gruff-as-told-by-nanny-piggins.mp3" length="12261167" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8448752</guid>
+    <pubDate>Wed, 05 May 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8448752/transcript" type="text/html" />
+    <ns1:soundbite startTime="39.248" duration="39.0" />
+    <ns2:duration>1018</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>63</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'Beauty and the Beast' as told by Nanny Piggins</ns2:title>
+    <title>'Beauty and the Beast' as told by Nanny Piggins</title>
+    <ns2:summary>Nanny Piggins tells the true story of 'Beauty and the Beast' as it happened to her cousin Belle Piggins. I don't want to give away any spoilers, but suffice it to say, there's more cake and chocolate involved than they lead you to believe in the movie version. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee ...</ns2:summary>
+    <description>&lt;p&gt;Nanny Piggins tells the true story of &amp;apos;Beauty and the Beast&amp;apos; as it happened to her cousin Belle Piggins. I don&amp;apos;t want to give away any spoilers, but suffice it to say, there&amp;apos;s more cake and chocolate involved than they lead you to believe in the movie version.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Nanny Piggins tells the true story of &amp;apos;Beauty and the Beast&amp;apos; as it happened to her cousin Belle Piggins. I don&amp;apos;t want to give away any spoilers, but suffice it to say, there&amp;apos;s more cake and chocolate involved than they lead you to believe in the movie version.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8405430-beauty-and-the-beast-as-told-by-nanny-piggins.mp3" length="9166270" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8405430</guid>
+    <pubDate>Wed, 28 Apr 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8405430/transcript" type="text/html" />
+    <ns1:soundbite startTime="34.517" duration="33.0" />
+    <ns2:duration>760</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>62</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>A Tall Tale about Floating Leaves... and Vegetarian Spiders</ns2:title>
+    <title>A Tall Tale about Floating Leaves... and Vegetarian Spiders</title>
+    <ns2:summary>When Tammy and Mum take the dog for a walk, a hovering autumn leaf makes them wonder about the possible existence of vegetarian spiders and the dangers of tofu hail. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use t...</ns2:summary>
+    <description>&lt;p&gt;When Tammy and Mum take the dog for a walk, a hovering autumn leaf makes them wonder about the possible existence of vegetarian spiders and the dangers of tofu hail.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When Tammy and Mum take the dog for a walk, a hovering autumn leaf makes them wonder about the possible existence of vegetarian spiders and the dangers of tofu hail.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8361753-a-tall-tale-about-floating-leaves-and-vegetarian-spiders.mp3" length="10074101" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8361753</guid>
+    <pubDate>Wed, 21 Apr 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8361753/transcript" type="text/html" />
+    <ns1:soundbite startTime="298.0" duration="38.0" />
+    <ns2:duration>835</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>61</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Nanny Piggins and the Royal Wedding Cake</ns2:title>
+    <title>Nanny Piggins and the Royal Wedding Cake</title>
+    <ns2:summary>After spending a weekend crashing weddings because she was in desperate need of cake, Nanny Piggins realises that the world is crying out of a wedding cake baker of her genius. She soon becomes so popular she is called upon to bake for a Royal Wedding. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this...</ns2:summary>
+    <description>&lt;p&gt;After spending a weekend crashing weddings because she was in desperate need of cake, Nanny Piggins realises that the world is crying out of a wedding cake baker of her genius. She soon becomes so popular she is called upon to bake for a Royal Wedding.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;After spending a weekend crashing weddings because she was in desperate need of cake, Nanny Piggins realises that the world is crying out of a wedding cake baker of her genius. She soon becomes so popular she is called upon to bake for a Royal Wedding.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8311612-nanny-piggins-and-the-royal-wedding-cake.mp3" length="22822236" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8311612</guid>
+    <pubDate>Wed, 14 Apr 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8311612/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8311612/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8311612/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8311612/transcript.vtt" type="text/vtt" />
+    <ns1:soundbite startTime="853.017" duration="58.0" />
+    <ns2:duration>1898</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>60</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'Icarus' as told by Nanny Piggins</ns2:title>
+    <title>'Icarus' as told by Nanny Piggins</title>
+    <ns2:summary>When Derrick leaves his homework at school, Nanny Piggins helps him by recounting the famous story from Greek mythology - the story of Icarus. Which she just happens to know because her (great times 48) aunt Daedulus Piggins was Icarus' mother. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link......</ns2:summary>
+    <description>&lt;p&gt;When Derrick leaves his homework at school, Nanny Piggins helps him by recounting the famous story from Greek mythology - the story of Icarus. Which she just happens to know because her (great times 48) aunt Daedulus Piggins was Icarus&amp;apos; mother.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When Derrick leaves his homework at school, Nanny Piggins helps him by recounting the famous story from Greek mythology - the story of Icarus. Which she just happens to know because her (great times 48) aunt Daedulus Piggins was Icarus&amp;apos; mother.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8272965-icarus-as-told-by-nanny-piggins.mp3" length="14347577" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8272965</guid>
+    <pubDate>Wed, 07 Apr 2021 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8272965/transcript" type="text/html" />
+    <ns1:soundbite startTime="873.426" duration="31.5" />
+    <ns2:duration>1192</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>59</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>A Tall Tale about Faces... and Green Tights</ns2:title>
+    <title>A Tall Tale about Faces... and Green Tights</title>
+    <ns2:summary>While walking home from school, Tammy and Mum discuss the possible things Mr Stuart could be doing on his day off from classroom teaching. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://rasprat...</ns2:summary>
+    <description>&lt;p&gt;While walking home from school, Tammy and Mum discuss the possible things Mr Stuart could be doing on his day off from classroom teaching.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;While walking home from school, Tammy and Mum discuss the possible things Mr Stuart could be doing on his day off from classroom teaching.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8236825-a-tall-tale-about-faces-and-green-tights.mp3" length="9216417" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8236825</guid>
+    <pubDate>Wed, 31 Mar 2021 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8236825/transcript" type="text/html" />
+    <ns2:duration>764</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>58</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'Rumplestiltskin' as told by Nanny Piggins</ns2:title>
+    <title>'Rumplestiltskin' as told by Nanny Piggins</title>
+    <ns2:summary>When Nanny Piggins gets a little bit over enthusiastic about commandeering an ice cream van, she and the children pass the time on the walk home with the story about a distant cousin of her and the strange little man who helped her spin straw into chocolate cake. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coff...</ns2:summary>
+    <description>&lt;p&gt;When Nanny Piggins gets a little bit over enthusiastic about commandeering an ice cream van, she and the children pass the time on the walk home with the story about a distant cousin of her and the strange little man who helped her spin straw into chocolate cake.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When Nanny Piggins gets a little bit over enthusiastic about commandeering an ice cream van, she and the children pass the time on the walk home with the story about a distant cousin of her and the strange little man who helped her spin straw into chocolate cake.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8192098-rumplestiltskin-as-told-by-nanny-piggins.mp3" length="15310573" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8192098</guid>
+    <pubDate>Wed, 24 Mar 2021 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8192098/transcript" type="text/html" />
+    <ns1:soundbite startTime="746.889" duration="30.0" />
+    <ns2:duration>1272</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>57</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Friday Barnes and the Case of the Boy who was Kidnapped</ns2:title>
+    <title>Friday Barnes and the Case of the Boy who was Kidnapped</title>
+    <ns2:summary>When a boy is kidnapped from Highcrest Academy, Friday is astonished that no one is concerned. She soon finds out that he stages his kidnapping all the time, but Friday realises that this could be the perfect cover for a real kidnapping. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https:...</ns2:summary>
+    <description>&lt;p&gt;When a boy is kidnapped from Highcrest Academy, Friday is astonished that no one is concerned. She soon finds out that he stages his kidnapping all the time, but Friday realises that this could be the perfect cover for a real kidnapping.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When a boy is kidnapped from Highcrest Academy, Friday is astonished that no one is concerned. She soon finds out that he stages his kidnapping all the time, but Friday realises that this could be the perfect cover for a real kidnapping.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8131938-friday-barnes-and-the-case-of-the-boy-who-was-kidnapped.mp3" length="13054560" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8131938</guid>
+    <pubDate>Wed, 17 Mar 2021 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8131938/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8131938/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8131938/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8131938/transcript.vtt" type="text/vtt" />
+    <ns1:soundbite startTime="108.117" duration="55.0" />
+    <ns2:duration>1084</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>56</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>A Tall Tale about Socks... and Goblins</ns2:title>
+    <title>A Tall Tale about Socks... and Goblins</title>
+    <ns2:summary>One night after dinner, Mum reveals to Vanessa and Tammy that they are going to have to start picking up their own socks because of tragic circumstances involving the work place conditions of fairies. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To...</ns2:summary>
+    <description>&lt;p&gt;One night after dinner, Mum reveals to Vanessa and Tammy that they are going to have to start picking up their own socks because of tragic circumstances involving the work place conditions of fairies.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;One night after dinner, Mum reveals to Vanessa and Tammy that they are going to have to start picking up their own socks because of tragic circumstances involving the work place conditions of fairies.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8096554-a-tall-tale-about-socks-and-goblins.mp3" length="8284462" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8096554</guid>
+    <pubDate>Wed, 10 Mar 2021 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8096554/transcript" type="text/html" />
+    <ns1:soundbite startTime="199.205" duration="40.0" />
+    <ns2:duration>686</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>55</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Nanny Piggins tells 'The Elves and the Shoemaker'</ns2:title>
+    <title>Nanny Piggins tells 'The Elves and the Shoemaker'</title>
+    <ns2:summary>Nanny Piggins tells the story of her distant cousin Matilda Piggins, a shoemaker who struggled against the pigism in the shoe industry to make enough money to eat the enormous volume of cake her athletic metabolism required. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffe...</ns2:summary>
+    <description>&lt;p&gt;Nanny Piggins tells the story of her distant cousin Matilda Piggins, a shoemaker who struggled against the pigism in the shoe industry to make enough money to eat the enormous volume of cake her athletic metabolism required.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Nanny Piggins tells the story of her distant cousin Matilda Piggins, a shoemaker who struggled against the pigism in the shoe industry to make enough money to eat the enormous volume of cake her athletic metabolism required.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/8047308-nanny-piggins-tells-the-elves-and-the-shoemaker.mp3" length="12225421" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-8047308</guid>
+    <pubDate>Wed, 03 Mar 2021 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/8047308/transcript" type="text/html" />
+    <ns1:soundbite startTime="261.0" duration="40.5" />
+    <ns2:duration>1015</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>54</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Nanny Piggins - Holistic Cake Healer</ns2:title>
+    <title>Nanny Piggins - Holistic Cake Healer</title>
+    <ns2:summary>This is a chapter from 'Nanny Piggins and the Wicked Plan' the second book in the Nanny Piggins series. In this story, Nanny Piggins gets so angry with the waiting time at her doctor's office that she decides to destroy his business by setting up a Holistic Cake Healing stall right outside. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn...</ns2:summary>
+    <description>&lt;p&gt;This is a chapter from &amp;apos;Nanny Piggins and the Wicked Plan&amp;apos; the second book in the Nanny Piggins series. In this story, Nanny Piggins gets so angry with the waiting time at her doctor&amp;apos;s office that she decides to destroy his business by setting up a Holistic Cake Healing stall right outside.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;This is a chapter from &amp;apos;Nanny Piggins and the Wicked Plan&amp;apos; the second book in the Nanny Piggins series. In this story, Nanny Piggins gets so angry with the waiting time at her doctor&amp;apos;s office that she decides to destroy his business by setting up a Holistic Cake Healing stall right outside.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/7976917-nanny-piggins-holistic-cake-healer.mp3" length="16166333" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-7976917</guid>
+    <pubDate>Wed, 24 Feb 2021 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7976917/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7976917/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7976917/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7976917/transcript.vtt" type="text/vtt" />
+    <ns1:soundbite startTime="242.433" duration="42.0" />
+    <ns2:duration>1343</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>53</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'Wilhelmina Tell' as told by Nanny Piggins</ns2:title>
+    <title>'Wilhelmina Tell' as told by Nanny Piggins</title>
+    <ns2:summary>When Nanny Piggins, Boris and the children accidentally chain themselves to the school canteen on a public holiday (while trying to protest against the inclusion of carrot sticks on the menu) she whiles away the time by telling them the story of her distant relative, who was a brilliant shot with a crossbow, called Wilhelmina Piggins. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy ...</ns2:summary>
+    <description>&lt;p&gt;When Nanny Piggins, Boris and the children accidentally chain themselves to the school canteen on a public holiday (while trying to protest against the inclusion of carrot sticks on the menu) she whiles away the time by telling them the story of her distant relative, who was a brilliant shot with a crossbow, called Wilhelmina Piggins.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When Nanny Piggins, Boris and the children accidentally chain themselves to the school canteen on a public holiday (while trying to protest against the inclusion of carrot sticks on the menu) she whiles away the time by telling them the story of her distant relative, who was a brilliant shot with a crossbow, called Wilhelmina Piggins.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/7892089-wilhelmina-tell-as-told-by-nanny-piggins.mp3" length="12440761" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-7892089</guid>
+    <pubDate>Wed, 17 Feb 2021 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7892089/transcript" type="text/html" />
+    <ns1:soundbite startTime="770.0" duration="41.0" />
+    <ns2:duration>1033</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>52</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>A Tall Tale about Big Sisters... and Alternate Realities</ns2:title>
+    <title>A Tall Tale about Big Sisters... and Alternate Realities</title>
+    <ns2:summary>It's the last day of the school holidays and Tammy is worried about meeting her new teacher, so Mum tries to put her mind at ease by suggesting things she could say on her first day.  Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a tick...</ns2:summary>
+    <description>&lt;p&gt;It&amp;apos;s the last day of the school holidays and Tammy is worried about meeting her new teacher, so Mum tries to put her mind at ease by suggesting things she could say on her first day. &lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;It&amp;apos;s the last day of the school holidays and Tammy is worried about meeting her new teacher, so Mum tries to put her mind at ease by suggesting things she could say on her first day. &lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/7648468-a-tall-tale-about-big-sisters-and-alternate-realities.mp3" length="8251897" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-7648468</guid>
+    <pubDate>Wed, 10 Feb 2021 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7648468/transcript" type="text/html" />
+    <ns1:soundbite startTime="67.0" duration="38.0" />
+    <ns2:duration>684</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>51</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Friday Barnes and the Case of the Lost Passport</ns2:title>
+    <title>Friday Barnes and the Case of the Lost Passport</title>
+    <ns2:summary>To celebrate the release 'Friday Barnes 9, No Escape' I have recorded a short story from that book. I hope you enjoy it. It features Parker, always a popular character. If you really like it, please do buy the book! Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/sto...</ns2:summary>
+    <description>&lt;p&gt;To celebrate the release &amp;apos;Friday Barnes 9, No Escape&amp;apos; I have recorded a short story from that book. I hope you enjoy it. It features Parker, always a popular character. If you really like it, please do buy the book!&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;To celebrate the release &amp;apos;Friday Barnes 9, No Escape&amp;apos; I have recorded a short story from that book. I hope you enjoy it. It features Parker, always a popular character. If you really like it, please do buy the book!&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/7439902-friday-barnes-and-the-case-of-the-lost-passport.mp3" length="11405068" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-7439902</guid>
+    <pubDate>Wed, 03 Feb 2021 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7439902/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7439902/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7439902/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7439902/transcript.vtt" type="text/vtt" />
+    <ns1:soundbite startTime="313.0" duration="47.0" />
+    <ns2:duration>946</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>50</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Friday Barnes and the Case of the Stolen Diamond</ns2:title>
+    <title>Friday Barnes and the Case of the Stolen Diamond</title>
+    <ns2:summary>The promote the release of the audio book of 'Friday Barnes 1, Girl Detective' on 2nd February 2021, I have recorded this mini-mystery from that book. It is the first case Friday ever solved. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a t...</ns2:summary>
+    <description>&lt;p&gt;The promote the release of the audio book of &amp;apos;Friday Barnes 1, Girl Detective&amp;apos; on 2nd February 2021, I have recorded this mini-mystery from that book. It is the first case Friday ever solved.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;The promote the release of the audio book of &amp;apos;Friday Barnes 1, Girl Detective&amp;apos; on 2nd February 2021, I have recorded this mini-mystery from that book. It is the first case Friday ever solved.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/7428673-friday-barnes-and-the-case-of-the-stolen-diamond.mp3" length="15602112" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-7428673</guid>
+    <pubDate>Wed, 27 Jan 2021 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7428673/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7428673/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7428673/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7428673/transcript.vtt" type="text/vtt" />
+    <ns1:soundbite startTime="500.0" duration="30.0" />
+    <ns2:duration>1296</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>49</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'The Bramwell Who Cried Wolf' told by Nanny Piggins</ns2:title>
+    <title>'The Bramwell Who Cried Wolf' told by Nanny Piggins</title>
+    <ns2:summary>Nanny Piggins tells story of the time her no good brother, Bramwell, got a job as a night shepherd. It did not go well for him, the sheep or the townspeople. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link...</ns2:summary>
+    <description>&lt;p&gt;Nanny Piggins tells story of the time her no good brother, Bramwell, got a job as a night shepherd. It did not go well for him, the sheep or the townspeople.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Nanny Piggins tells story of the time her no good brother, Bramwell, got a job as a night shepherd. It did not go well for him, the sheep or the townspeople.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/7348885-the-bramwell-who-cried-wolf-told-by-nanny-piggins.mp3" length="13134800" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-7348885</guid>
+    <pubDate>Wed, 20 Jan 2021 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7348885/transcript" type="text/html" />
+    <ns1:soundbite startTime="629.517" duration="32.0" />
+    <ns2:duration>1090</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>48</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>'Snow Pig' told by Nanny Piggins</ns2:title>
+    <title>'Snow Pig' told by Nanny Piggins</title>
+    <ns2:summary>While caught sheltering in a bus stop during a rain storm, Nanny Piggins regales the children with the story of a distant yet staggeringly beautiful relative of hers - Snow Pig and her much maligned stepmother. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesr...</ns2:summary>
+    <description>&lt;p&gt;While caught sheltering in a bus stop during a rain storm, Nanny Piggins regales the children with the story of a distant yet staggeringly beautiful relative of hers - Snow Pig and her much maligned stepmother.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;While caught sheltering in a bus stop during a rain storm, Nanny Piggins regales the children with the story of a distant yet staggeringly beautiful relative of hers - Snow Pig and her much maligned stepmother.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/7190707-snow-pig-told-by-nanny-piggins.mp3" length="13407167" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-7190707</guid>
+    <pubDate>Wed, 13 Jan 2021 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7190707/transcript" type="text/html" />
+    <ns1:soundbite startTime="314.0" duration="47.5" />
+    <ns2:duration>1113</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>47</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Friday Barnes and the Case of Something in the Stroganoff</ns2:title>
+    <title>Friday Barnes and the Case of Something in the Stroganoff</title>
+    <ns2:summary>To promote the release of 'Friday Barnes 9, No Escape' on February 2nd 2021, I have recorded 'Something in the Strognanoff' from 'Friday Barnes 4, No Rules'. When the whole school has been poisoned it's up to Friday to figure out what happened. Will they need a whole fleet of ambulances, or is there another explanation? Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books...</ns2:summary>
+    <description>&lt;p&gt;To promote the release of &amp;apos;Friday Barnes 9, No Escape&amp;apos; on February 2nd 2021, I have recorded &amp;apos;Something in the Strognanoff&amp;apos; from &amp;apos;Friday Barnes 4, No Rules&amp;apos;. When the whole school has been poisoned it&amp;apos;s up to Friday to figure out what happened. Will they need a whole fleet of ambulances, or is there another explanation?&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;To promote the release of &amp;apos;Friday Barnes 9, No Escape&amp;apos; on February 2nd 2021, I have recorded &amp;apos;Something in the Strognanoff&amp;apos; from &amp;apos;Friday Barnes 4, No Rules&amp;apos;. When the whole school has been poisoned it&amp;apos;s up to Friday to figure out what happened. Will they need a whole fleet of ambulances, or is there another explanation?&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/7042240-friday-barnes-and-the-case-of-something-in-the-stroganoff.mp3" length="11423896" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-7042240</guid>
+    <pubDate>Wed, 06 Jan 2021 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7042240/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7042240/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7042240/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7042240/transcript.vtt" type="text/vtt" />
+    <ns1:soundbite startTime="465.433" duration="30.5" />
+    <ns2:duration>948</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>46</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>A Tall Tale about Seashells and Zombies</ns2:title>
+    <title>A Tall Tale about Seashells and Zombies</title>
+    <ns2:summary>When Mum takes Tammy and Vanessa to the beach to escape the pre-Christmas stress, she ends up telling them an alarming story about the consequences of taking seashells from beaches and how it can lead to zombies in sushi restaurants. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://bu...</ns2:summary>
+    <description>&lt;p&gt;When Mum takes Tammy and Vanessa to the beach to escape the pre-Christmas stress, she ends up telling them an alarming story about the consequences of taking seashells from beaches and how it can lead to zombies in sushi restaurants.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When Mum takes Tammy and Vanessa to the beach to escape the pre-Christmas stress, she ends up telling them an alarming story about the consequences of taking seashells from beaches and how it can lead to zombies in sushi restaurants.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/7026172-a-tall-tale-about-seashells-and-zombies.mp3" length="9184435" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-7026172</guid>
+    <pubDate>Wed, 30 Dec 2020 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/7026172/transcript" type="text/html" />
+    <ns2:duration>761</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>45</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Nanny Piggins and the First Christmas</ns2:title>
+    <title>Nanny Piggins and the First Christmas</title>
+    <ns2:summary>Nanny Piggins recounts the story from the Piggins family's own oral history of the first Christmas. It involves more chocolate cake than the original version. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this lin...</ns2:summary>
+    <description>&lt;p&gt;Nanny Piggins recounts the story from the Piggins family&amp;apos;s own oral history of the first Christmas. It involves more chocolate cake than the original version.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Nanny Piggins recounts the story from the Piggins family&amp;apos;s own oral history of the first Christmas. It involves more chocolate cake than the original version.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/6875483-nanny-piggins-and-the-first-christmas.mp3" length="18502622" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-6875483</guid>
+    <pubDate>Wed, 23 Dec 2020 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/6875483/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/6875483/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/6875483/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/6875483/transcript.vtt" type="text/vtt" />
+    <ns1:soundbite startTime="472.333" duration="39.5" />
+    <ns2:duration>1538</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>44</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Nanny Piggins Saves Christmas</ns2:title>
+    <title>Nanny Piggins Saves Christmas</title>
+    <ns2:summary>This is the episode I recorded on the weekend as a livestream on Facebook. It is the story of Nanny Piggins standing in for Santa after Boris accidentally causes him to have a head injury outside their house. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesras...</ns2:summary>
+    <description>&lt;p&gt;This is the episode I recorded on the weekend as a livestream on Facebook. It is the story of Nanny Piggins standing in for Santa after Boris accidentally causes him to have a head injury outside their house.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;This is the episode I recorded on the weekend as a livestream on Facebook. It is the story of Nanny Piggins standing in for Santa after Boris accidentally causes him to have a head injury outside their house.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/6821752-nanny-piggins-saves-christmas.mp3" length="20071834" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-6821752</guid>
+    <pubDate>Wed, 16 Dec 2020 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/6821752/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/6821752/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/6821752/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/6821752/transcript.vtt" type="text/vtt" />
+    <ns1:soundbite startTime="599.999" duration="43.0" />
+    <ns2:duration>1669</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>43</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Friday Barnes and the Case of the Incriminating Trousers</ns2:title>
+    <title>Friday Barnes and the Case of the Incriminating Trousers</title>
+    <ns2:summary>When her boyfriend/nemesis Ian Wainscott is accused of cheating in an examination, Friday hurries to investigate. She soon proves that there's more to the incriminating evidence written on his trousers than meets the eye.  For all the #frian fans out there, you'll know this story as the one with the first kiss. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this...</ns2:summary>
+    <description>&lt;p&gt;When her boyfriend/nemesis Ian Wainscott is accused of cheating in an examination, Friday hurries to investigate. She soon proves that there&amp;apos;s more to the incriminating evidence written on his trousers than meets the eye.&lt;br/&gt;&lt;br/&gt;For all the #frian fans out there, you&amp;apos;ll know this story as the one with the first kiss.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When her boyfriend/nemesis Ian Wainscott is accused of cheating in an examination, Friday hurries to investigate. She soon proves that there&amp;apos;s more to the incriminating evidence written on his trousers than meets the eye.&lt;br/&gt;&lt;br/&gt;For all the #frian fans out there, you&amp;apos;ll know this story as the one with the first kiss.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/6687644-friday-barnes-and-the-case-of-the-incriminating-trousers.mp3" length="16478588" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-6687644</guid>
+    <pubDate>Wed, 09 Dec 2020 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/6687644/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/6687644/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/6687644/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/6687644/transcript.vtt" type="text/vtt" />
+    <ns1:soundbite startTime="382.0" duration="38.0" />
+    <ns2:duration>1369</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>42</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Nanny Piggins and 'The Hideously Ugly Duckling'</ns2:title>
+    <title>Nanny Piggins and 'The Hideously Ugly Duckling'</title>
+    <ns2:summary>When they become inadvertantly locked in a bank vault (note to self, don't argue with bank robbers) Nanny Piggins tells Boris and the children the story of 'The Ugly Duckling'. Her version may not be famililar to you. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/s...</ns2:summary>
+    <description>&lt;p&gt;When they become inadvertantly locked in a bank vault (note to self, don&amp;apos;t argue with bank robbers) Nanny Piggins tells Boris and the children the story of &amp;apos;The Ugly Duckling&amp;apos;. Her version may not be famililar to you.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When they become inadvertantly locked in a bank vault (note to self, don&amp;apos;t argue with bank robbers) Nanny Piggins tells Boris and the children the story of &amp;apos;The Ugly Duckling&amp;apos;. Her version may not be famililar to you.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/6546517-nanny-piggins-and-the-hideously-ugly-duckling.mp3" length="14498697" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-6546517</guid>
+    <pubDate>Wed, 02 Dec 2020 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/6546517/transcript" type="text/html" />
+    <ns1:soundbite startTime="677.0" duration="46.0" />
+    <ns2:duration>1204</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>1</ns2:season>
+    <ns2:episode>41</ns2:episode>
     <ns2:episodeType>full</ns2:episodeType>
     <ns2:explicit>false</ns2:explicit>
   </item>

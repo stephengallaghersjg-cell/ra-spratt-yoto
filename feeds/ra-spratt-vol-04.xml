@@ -3,7 +3,7 @@
 <channel>
   <ns0:link href="https://rss.buzzsprout.com/852289.rss" rel="self" type="application/rss+xml" />
   <ns0:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
-  <title>R.A. Spratt Vol. 04 — Episodes 031–040</title>
+  <title>R.A. Spratt Vol. 04 — Episodes 121–160</title>
 
   <lastBuildDate>Thu, 17 Sep 2026 01:12:53 -0400</lastBuildDate>
   <link>http://www.raspratt.com</link>
@@ -18,7 +18,7 @@
   <ns2:author>R.A. Spratt</ns2:author>
   <ns2:type>episodic</ns2:type>
   <ns2:explicit>false</ns2:explicit>
-  <description>Custom chronological volume 4 of Bedtime Stories with R.A. Spratt. Episodes 31–40 from the official podcast feed.</description>
+  <description>Custom chronological volume 4 of Bedtime Stories with R.A. Spratt. Episodes 121–160 from the official podcast feed.</description>
   <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
   <ns2:keywords>ra spratt, bedtime stories, author, nanny piggins, friday barnes, peski kids, R.A., kids stories, car stories, road trip stories, fairy tales</ns2:keywords>
   <ns2:owner>
@@ -41,200 +41,734 @@
   </ns2:category>
   <ns1:person role="host" href="http://raspratt.com" img="https://storage.buzzsprout.com/dvl4jzsy7f5a4e6ezan7ddrah0sl">R.A. Spratt</ns1:person>
   <item>
-    <ns2:title>A Tall Tale about Giants... and Libraries</ns2:title>
-    <title>A Tall Tale about Giants... and Libraries</title>
-    <ns2:summary>When Tammy and Mum take the dog for a walk the renovations at their local library lead to a discussion about the importance of building accessibility for the improvement of giant literacy. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a tick...</ns2:summary>
-    <description>&lt;p&gt;When Tammy and Mum take the dog for a walk the renovations at their local library lead to a discussion about the importance of building accessibility for the improvement of giant literacy.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;When Tammy and Mum take the dog for a walk the renovations at their local library lead to a discussion about the importance of building accessibility for the improvement of giant literacy.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/6522952-a-tall-tale-about-giants-and-libraries.mp3" length="9282555" type="audio/mpeg" />
+    <ns2:title>"Sisyphus" as told by Nanny Piggins</ns2:title>
+    <title>"Sisyphus" as told by Nanny Piggins</title>
+    <ns2:summary>This is a repeat episode because I'm away on holiday. It's one of my favourites because it is the first of the Greek Myths I did with Nanny Piggins. It was a lot of fun and I've done many Greek Myths since. Although some of the names are hard to pronounce which means I have to do lots of retakes when I'm recording. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use ...</ns2:summary>
+    <description>&lt;p&gt;This is a repeat episode because I&amp;apos;m away on holiday. It&amp;apos;s one of my favourites because it is the first of the Greek Myths I did with Nanny Piggins. It was a lot of fun and I&amp;apos;ve done many Greek Myths since. Although some of the names are hard to pronounce which means I have to do lots of retakes when I&amp;apos;m recording.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;This is a repeat episode because I&amp;apos;m away on holiday. It&amp;apos;s one of my favourites because it is the first of the Greek Myths I did with Nanny Piggins. It was a lot of fun and I&amp;apos;ve done many Greek Myths since. Although some of the names are hard to pronounce which means I have to do lots of retakes when I&amp;apos;m recording.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10821229-sisyphus-as-told-by-nanny-piggins.mp3" length="12407519" type="audio/mpeg" />
     <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-6522952</guid>
-    <pubDate>Wed, 25 Nov 2020 06:00:00 +1100</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/6522952/transcript" type="text/html" />
-    <ns1:soundbite startTime="485.5" duration="29.5" />
-    <ns2:duration>769</ns2:duration>
+    <guid isPermaLink="false">Buzzsprout-10821229</guid>
+    <pubDate>Fri, 01 Jul 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>1030</ns2:duration>
     <ns2:keywords />
-    <ns2:season>1</ns2:season>
-    <ns2:episode>40</ns2:episode>
+    <ns2:season>3</ns2:season>
+    <ns2:episode>29</ns2:episode>
     <ns2:episodeType>full</ns2:episodeType>
     <ns2:explicit>false</ns2:explicit>
   </item>
   <item>
-    <ns2:title>Ant and Chelly Break Records - Part 2</ns2:title>
-    <title>Ant and Chelly Break Records - Part 2</title>
-    <ns2:summary>When their attempts to break records on Earth don't work out, Ant and Chelly get the brilliant idea - to try breaking records somewhere else! This soon leads to terrible consequences. Luckily they now have the skilled to fix their own hair brained disasters. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee us...</ns2:summary>
-    <description>&lt;p&gt;When their attempts to break records on Earth don&amp;apos;t work out, Ant and Chelly get the brilliant idea - to try breaking records somewhere else! This soon leads to terrible consequences. Luckily they now have the skilled to fix their own hair brained disasters.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;When their attempts to break records on Earth don&amp;apos;t work out, Ant and Chelly get the brilliant idea - to try breaking records somewhere else! This soon leads to terrible consequences. Luckily they now have the skilled to fix their own hair brained disasters.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/6012037-ant-and-chelly-break-records-part-2.mp3" length="12635102" type="audio/mpeg" />
+    <ns2:title>A Tall Tale about Socks and Goblins</ns2:title>
+    <title>A Tall Tale about Socks and Goblins</title>
+    <ns2:summary>This is another replay because I'm on holiday with my family.  I love this story. It may be one that appeals more to Mums. I like that it features both of my daughters. My older daughter always complains that she isn't mentioned as much in the tall tales as her younger sister. I love the sock fairy. It is one of my favourite ideas I've come up with for this series. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subs...</ns2:summary>
+    <description>&lt;p&gt;This is another replay because I&amp;apos;m on holiday with my family.&lt;br/&gt;&lt;br/&gt;I love this story. It may be one that appeals more to Mums. I like that it features both of my daughters. My older daughter always complains that she isn&amp;apos;t mentioned as much in the tall tales as her younger sister. I love the sock fairy. It is one of my favourite ideas I&amp;apos;ve come up with for this series.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;This is another replay because I&amp;apos;m on holiday with my family.&lt;br/&gt;&lt;br/&gt;I love this story. It may be one that appeals more to Mums. I like that it features both of my daughters. My older daughter always complains that she isn&amp;apos;t mentioned as much in the tall tales as her younger sister. I love the sock fairy. It is one of my favourite ideas I&amp;apos;ve come up with for this series.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10821019-a-tall-tale-about-socks-and-goblins.mp3" length="8284143" type="audio/mpeg" />
     <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-6012037</guid>
-    <pubDate>Wed, 18 Nov 2020 06:00:00 +1100</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/6012037/transcript" type="text/html" />
-    <ns2:duration>1049</ns2:duration>
+    <guid isPermaLink="false">Buzzsprout-10821019</guid>
+    <pubDate>Wed, 29 Jun 2022 00:00:00 +1000</pubDate>
+    <ns2:duration>686</ns2:duration>
     <ns2:keywords />
-    <ns2:season>1</ns2:season>
-    <ns2:episode>39</ns2:episode>
+    <ns2:season>3</ns2:season>
+    <ns2:episode>28</ns2:episode>
     <ns2:episodeType>full</ns2:episodeType>
     <ns2:explicit>false</ns2:explicit>
   </item>
   <item>
-    <ns2:title>Ant and Chelly Break Records - Part 1</ns2:title>
-    <title>Ant and Chelly Break Records - Part 1</title>
-    <ns2:summary>When Ant and Chelly get a book for their birthday they are a bit disgruntled, until they discover that it's a book of world records. They are soon inspired to start breaking records of their own. Unfortunately their attempts nearly trigger the destruction of the world, that is until Granny arrives... Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... ht...</ns2:summary>
-    <description>&lt;p&gt;When Ant and Chelly get a book for their birthday they are a bit disgruntled, until they discover that it&amp;apos;s a book of world records. They are soon inspired to start breaking records of their own. Unfortunately their attempts nearly trigger the destruction of the world, that is until Granny arrives...&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;When Ant and Chelly get a book for their birthday they are a bit disgruntled, until they discover that it&amp;apos;s a book of world records. They are soon inspired to start breaking records of their own. Unfortunately their attempts nearly trigger the destruction of the world, that is until Granny arrives...&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/6011473-ant-and-chelly-break-records-part-1.mp3" length="9001678" type="audio/mpeg" />
+    <ns2:title>"The Elves and the Shoemaker" as told by Nanny Piggins</ns2:title>
+    <title>"The Elves and the Shoemaker" as told by Nanny Piggins</title>
+    <ns2:summary>This is a replay of a story I wrote for the Adelaide Writer's Festival in 2021. I tried to record it live but it all went horribly wrong, so I recorded this in my hotel room that night. I'm very fond of this story. I do like coffee cake. Plus the Elves and the Shoemaker is a story my mother used to read to me when I was little. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of ...</ns2:summary>
+    <description>&lt;p&gt;This is a replay of a story I wrote for the Adelaide Writer&amp;apos;s Festival in 2021. I tried to record it live but it all went horribly wrong, so I recorded this in my hotel room that night. I&amp;apos;m very fond of this story. I do like coffee cake. Plus the Elves and the Shoemaker is a story my mother used to read to me when I was little.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;This is a replay of a story I wrote for the Adelaide Writer&amp;apos;s Festival in 2021. I tried to record it live but it all went horribly wrong, so I recorded this in my hotel room that night. I&amp;apos;m very fond of this story. I do like coffee cake. Plus the Elves and the Shoemaker is a story my mother used to read to me when I was little.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10821002-the-elves-and-the-shoemaker-as-told-by-nanny-piggins.mp3" length="12225118" type="audio/mpeg" />
     <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-6011473</guid>
-    <pubDate>Wed, 11 Nov 2020 06:00:00 +1100</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/6011473/transcript" type="text/html" />
-    <ns1:soundbite startTime="138.559" duration="50.5" />
-    <ns2:duration>746</ns2:duration>
+    <guid isPermaLink="false">Buzzsprout-10821002</guid>
+    <pubDate>Mon, 27 Jun 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>1015</ns2:duration>
     <ns2:keywords />
-    <ns2:season>1</ns2:season>
-    <ns2:episode>38</ns2:episode>
+    <ns2:season>3</ns2:season>
+    <ns2:episode>27</ns2:episode>
     <ns2:episodeType>full</ns2:episodeType>
     <ns2:explicit>false</ns2:explicit>
   </item>
   <item>
-    <ns2:title>The Adventures of Nanny Piggins - Chapter 1</ns2:title>
-    <title>The Adventures of Nanny Piggins - Chapter 1</title>
-    <ns2:summary>The audio book of 'The Adventures of Nanny Piggins' went on sale this week! To promote the release, I've recorded this special episode of the podcast with a reading of the first chapter. I hope you enjoy it. Here's a link where you can buy a CD of the audiobook... https://www.bookdepository.com/Adventures-Nanny-Piggins-R-Spratt/9781867502623?ref=grid-view&amp;amp;qid=1602827770043&amp;amp;sr=1-40 Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast pl...</ns2:summary>
-    <description>&lt;p&gt;The audio book of &amp;apos;The Adventures of Nanny Piggins&amp;apos; went on sale this week! To promote the release, I&amp;apos;ve recorded this special episode of the podcast with a reading of the first chapter. I hope you enjoy it. Here&amp;apos;s a link where you can buy a CD of the audiobook... &lt;a href='https://www.bookdepository.com/Adventures-Nanny-Piggins-R-Spratt/9781867502623?ref=grid-view&amp;amp;qid=1602827770043&amp;amp;sr=1-40'&gt;https://www.bookdepository.com/Adventures-Nanny-Piggins-R-Spratt/9781867502623?ref=grid-view&amp;amp;qid=1602827770043&amp;amp;sr=1-40&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;The audio book of &amp;apos;The Adventures of Nanny Piggins&amp;apos; went on sale this week! To promote the release, I&amp;apos;ve recorded this special episode of the podcast with a reading of the first chapter. I hope you enjoy it. Here&amp;apos;s a link where you can buy a CD of the audiobook... &lt;a href='https://www.bookdepository.com/Adventures-Nanny-Piggins-R-Spratt/9781867502623?ref=grid-view&amp;amp;qid=1602827770043&amp;amp;sr=1-40'&gt;https://www.bookdepository.com/Adventures-Nanny-Piggins-R-Spratt/9781867502623?ref=grid-view&amp;amp;qid=1602827770043&amp;amp;sr=1-40&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/5920516-the-adventures-of-nanny-piggins-chapter-1.mp3" length="10587532" type="audio/mpeg" />
+    <ns2:title>Chapter 24 and 25 - The Aftermath - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 24 and 25 - The Aftermath - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>Chapter 24 - Everything is explained, about how the bear really came to be in the woods.   Chapter 25 - Then everything is thrown into chaos again when Dad spontaneously makes a huge decision. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To bo...</ns2:summary>
+    <description>&lt;p&gt;Chapter 24 - Everything is explained, about how the bear really came to be in the woods. &lt;br/&gt;&lt;br/&gt;Chapter 25 - Then everything is thrown into chaos again when Dad spontaneously makes a huge decision.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Chapter 24 - Everything is explained, about how the bear really came to be in the woods. &lt;br/&gt;&lt;br/&gt;Chapter 25 - Then everything is thrown into chaos again when Dad spontaneously makes a huge decision.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10820987-chapter-24-and-25-the-aftermath-the-peski-kids-2-bear-in-the-woods.mp3" length="10531163" type="audio/mpeg" />
     <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-5920516</guid>
-    <pubDate>Wed, 04 Nov 2020 06:00:00 +1100</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5920516/transcript" type="text/html" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5920516/transcript.json" type="application/json" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5920516/transcript.srt" type="application/x-subrip" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5920516/transcript.vtt" type="text/vtt" />
-    <ns1:soundbite startTime="503.5" duration="50.0" />
-    <ns2:duration>878</ns2:duration>
+    <guid isPermaLink="false">Buzzsprout-10820987</guid>
+    <pubDate>Fri, 24 Jun 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>873</ns2:duration>
     <ns2:keywords />
-    <ns2:season>1</ns2:season>
-    <ns2:episode>37</ns2:episode>
+    <ns2:season>3</ns2:season>
+    <ns2:episode>26</ns2:episode>
     <ns2:episodeType>full</ns2:episodeType>
     <ns2:explicit>false</ns2:explicit>
   </item>
   <item>
-    <ns2:title>Friday Barnes and the Case of the Voice in the Night</ns2:title>
-    <title>Friday Barnes and the Case of the Voice in the Night</title>
-    <ns2:summary>As a Halloween special, I have recorded a chapter from FRIDAY BARNES 3, BIG TROUBLE. It's as close as Friday Barnes gets to a ghost story (it's not really very spooky, but the word 'ghost' is mentioned twice).   When two girls keep hearing a voice in the attic above their dorm room, they go to Friday to solve the mystery. Special thanks to my publisher, Penguin for giving me permission to record this episode as a promotion for the upcoming release of my new book FRIDAY BARNES 9, NO ESCAP...</ns2:summary>
-    <description>&lt;p&gt;As a Halloween special, I have recorded a chapter from FRIDAY BARNES 3, BIG TROUBLE. It&amp;apos;s as close as Friday Barnes gets to a ghost story (it&amp;apos;s not really very spooky, but the word &amp;apos;ghost&amp;apos; is mentioned twice). &lt;br/&gt;&lt;br/&gt;When two girls keep hearing a voice in the attic above their dorm room, they go to Friday to solve the mystery. Special thanks to my publisher, Penguin for giving me permission to record this episode as a promotion for the upcoming release of my new book FRIDAY BARNES 9, NO ESCAPE in February 2021.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;As a Halloween special, I have recorded a chapter from FRIDAY BARNES 3, BIG TROUBLE. It&amp;apos;s as close as Friday Barnes gets to a ghost story (it&amp;apos;s not really very spooky, but the word &amp;apos;ghost&amp;apos; is mentioned twice). &lt;br/&gt;&lt;br/&gt;When two girls keep hearing a voice in the attic above their dorm room, they go to Friday to solve the mystery. Special thanks to my publisher, Penguin for giving me permission to record this episode as a promotion for the upcoming release of my new book FRIDAY BARNES 9, NO ESCAPE in February 2021.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/5994664-friday-barnes-and-the-case-of-the-voice-in-the-night.mp3" length="14801832" type="audio/mpeg" />
+    <ns2:title>Chapter 23 - The Big Day (Part 2) - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 23 - The Big Day (Part 2) - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>The Daffodil Day celebrations turn to chaos when a surprise visitor turns up, and Officer Odinsson is reinstated by the power crazed mayor. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspra...</ns2:summary>
+    <description>&lt;p&gt;The Daffodil Day celebrations turn to chaos when a surprise visitor turns up, and Officer Odinsson is reinstated by the power crazed mayor.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;The Daffodil Day celebrations turn to chaos when a surprise visitor turns up, and Officer Odinsson is reinstated by the power crazed mayor.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10820967-chapter-23-the-big-day-part-2-the-peski-kids-2-bear-in-the-woods.mp3" length="14561126" type="audio/mpeg" />
     <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-5994664</guid>
-    <pubDate>Wed, 28 Oct 2020 06:00:00 +1100</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5994664/transcript" type="text/html" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5994664/transcript.json" type="application/json" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5994664/transcript.srt" type="application/x-subrip" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5994664/transcript.vtt" type="text/vtt" />
-    <ns1:soundbite startTime="479.083" duration="58.5" />
-    <ns2:duration>1229</ns2:duration>
+    <guid isPermaLink="false">Buzzsprout-10820967</guid>
+    <pubDate>Wed, 22 Jun 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>1209</ns2:duration>
     <ns2:keywords />
-    <ns2:season>1</ns2:season>
-    <ns2:episode>36</ns2:episode>
+    <ns2:season>3</ns2:season>
+    <ns2:episode>25</ns2:episode>
     <ns2:episodeType>full</ns2:episodeType>
     <ns2:explicit>false</ns2:explicit>
   </item>
   <item>
-    <ns2:title>A Tall Tale About War... and Chocolate</ns2:title>
-    <title>A Tall Tale About War... and Chocolate</title>
-    <ns2:summary>When Mum takes Vanessa to the city to see the orthodontist, they get side tracked by gourmet chocolate shops and wondering about the violent tendencies of the staff. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use t...</ns2:summary>
-    <description>&lt;p&gt;When Mum takes Vanessa to the city to see the orthodontist, they get side tracked by gourmet chocolate shops and wondering about the violent tendencies of the staff.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;When Mum takes Vanessa to the city to see the orthodontist, they get side tracked by gourmet chocolate shops and wondering about the violent tendencies of the staff.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/5918056-a-tall-tale-about-war-and-chocolate.mp3" length="7767865" type="audio/mpeg" />
+    <ns2:title>Chapter 23 - The Big Day - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 23 - The Big Day - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>Daffodil Day finally arrives. Dad is forced to dress up in a ridiculous costume. The mayor refuses to believe the truth about the bear, not when there are so many tourists in town. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a ...</ns2:summary>
+    <description>&lt;p&gt;Daffodil Day finally arrives. Dad is forced to dress up in a ridiculous costume. The mayor refuses to believe the truth about the bear, not when there are so many tourists in town.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Daffodil Day finally arrives. Dad is forced to dress up in a ridiculous costume. The mayor refuses to believe the truth about the bear, not when there are so many tourists in town.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10777143-chapter-23-the-big-day-the-peski-kids-2-bear-in-the-woods.mp3" length="9071318" type="audio/mpeg" />
     <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-5918056</guid>
-    <pubDate>Wed, 21 Oct 2020 06:00:00 +1100</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5918056/transcript" type="text/html" />
-    <ns1:soundbite startTime="204.0" duration="33.0" />
-    <ns2:duration>643</ns2:duration>
+    <guid isPermaLink="false">Buzzsprout-10777143</guid>
+    <pubDate>Mon, 20 Jun 2022 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10777143/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10777143/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10777143/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10777143/transcript.vtt" type="text/vtt" />
+    <ns2:duration>752</ns2:duration>
     <ns2:keywords />
-    <ns2:season>1</ns2:season>
-    <ns2:episode>35</ns2:episode>
+    <ns2:season>3</ns2:season>
+    <ns2:episode>24</ns2:episode>
     <ns2:episodeType>full</ns2:episodeType>
     <ns2:explicit>false</ns2:explicit>
   </item>
   <item>
-    <ns2:title>Nanny Piggins tells 'The Little Match Girl'</ns2:title>
-    <title>Nanny Piggins tells 'The Little Match Girl'</title>
-    <ns2:summary>After a particularly exhausting morning avoiding the truancy officer and eating ice cream, Nanny Piggins entertains the children by telling them the story of her long distant Danish cousin Hannah Christian Anderson Piggins and the Normal Sized Match Girl. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use t...</ns2:summary>
-    <description>&lt;p&gt;After a particularly exhausting morning avoiding the truancy officer and eating ice cream, Nanny Piggins entertains the children by telling them the story of her long distant Danish cousin Hannah Christian Anderson Piggins and the Normal Sized Match Girl.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;After a particularly exhausting morning avoiding the truancy officer and eating ice cream, Nanny Piggins entertains the children by telling them the story of her long distant Danish cousin Hannah Christian Anderson Piggins and the Normal Sized Match Girl.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/5636182-nanny-piggins-tells-the-little-match-girl.mp3" length="17672253" type="audio/mpeg" />
+    <ns2:title>Chapter 22 - Trust No-One - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 22 - Trust No-One - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>April gives up, until Loretta bursts in with evidence that proves she was right all along. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;April gives up, until Loretta bursts in with evidence that proves she was right all along.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;April gives up, until Loretta bursts in with evidence that proves she was right all along.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10777139-chapter-22-trust-no-one-the-peski-kids-2-bear-in-the-woods.mp3" length="4953273" type="audio/mpeg" />
     <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-5636182</guid>
-    <pubDate>Wed, 14 Oct 2020 06:00:00 +1100</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5636182/transcript" type="text/html" />
-    <ns1:soundbite startTime="193.017" duration="47.0" />
-    <ns2:duration>1469</ns2:duration>
+    <guid isPermaLink="false">Buzzsprout-10777139</guid>
+    <pubDate>Fri, 17 Jun 2022 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10777139/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10777139/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10777139/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10777139/transcript.vtt" type="text/vtt" />
+    <ns2:duration>409</ns2:duration>
     <ns2:keywords />
-    <ns2:season>1</ns2:season>
-    <ns2:episode>34</ns2:episode>
+    <ns2:season>3</ns2:season>
+    <ns2:episode>23</ns2:episode>
     <ns2:episodeType>full</ns2:episodeType>
     <ns2:explicit>false</ns2:explicit>
   </item>
   <item>
-    <ns2:title>Friday Barnes and the Case of the Missing Homework</ns2:title>
-    <title>Friday Barnes and the Case of the Missing Homework</title>
-    <ns2:summary>When Parker's assignment goes missing and it's worth 80% of his final mark for the year, Friday has to help him find it so he doesn't enrage Mr Spencer and have to do the whole year 9 science coarse again. This is a chapter from 'Friday Barnes 1, Girl Detective' recorded for the podcast to promote the upcoming release of 'Friday Barnes 9, No Escape'. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support ...</ns2:summary>
-    <description>&lt;p&gt;When Parker&amp;apos;s assignment goes missing and it&amp;apos;s worth 80% of his final mark for the year, Friday has to help him find it so he doesn&amp;apos;t enrage Mr Spencer and have to do the whole year 9 science coarse again. This is a chapter from &amp;apos;Friday Barnes 1, Girl Detective&amp;apos; recorded for the podcast to promote the upcoming release of &amp;apos;Friday Barnes 9, No Escape&amp;apos;.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;When Parker&amp;apos;s assignment goes missing and it&amp;apos;s worth 80% of his final mark for the year, Friday has to help him find it so he doesn&amp;apos;t enrage Mr Spencer and have to do the whole year 9 science coarse again. This is a chapter from &amp;apos;Friday Barnes 1, Girl Detective&amp;apos; recorded for the podcast to promote the upcoming release of &amp;apos;Friday Barnes 9, No Escape&amp;apos;.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/5654566-friday-barnes-and-the-case-of-the-missing-homework.mp3" length="11893146" type="audio/mpeg" />
+    <ns2:title>Chapter 21 - Listen to Me - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 21 - Listen to Me - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>April tried to warn everyone at the Good Times Cafe about the dangers of the bear in the wood. Dad gets a milkshake in the lap. And she gets another head injury. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this ...</ns2:summary>
+    <description>&lt;p&gt;April tried to warn everyone at the Good Times Cafe about the dangers of the bear in the wood. Dad gets a milkshake in the lap. And she gets another head injury.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;April tried to warn everyone at the Good Times Cafe about the dangers of the bear in the wood. Dad gets a milkshake in the lap. And she gets another head injury.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10777134-chapter-21-listen-to-me-the-peski-kids-2-bear-in-the-woods.mp3" length="6860421" type="audio/mpeg" />
     <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-5654566</guid>
-    <pubDate>Wed, 07 Oct 2020 06:00:00 +1100</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5654566/transcript" type="text/html" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5654566/transcript.json" type="application/json" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5654566/transcript.srt" type="application/x-subrip" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5654566/transcript.vtt" type="text/vtt" />
-    <ns1:soundbite startTime="553.0" duration="36.5" />
-    <ns2:duration>987</ns2:duration>
+    <guid isPermaLink="false">Buzzsprout-10777134</guid>
+    <pubDate>Wed, 15 Jun 2022 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10777134/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10777134/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10777134/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10777134/transcript.vtt" type="text/vtt" />
+    <ns2:duration>568</ns2:duration>
     <ns2:keywords />
-    <ns2:season>1</ns2:season>
-    <ns2:episode>33</ns2:episode>
+    <ns2:season>3</ns2:season>
+    <ns2:episode>22</ns2:episode>
     <ns2:episodeType>full</ns2:episodeType>
     <ns2:explicit>false</ns2:explicit>
   </item>
   <item>
-    <ns2:title>A Tall Tale About Granny... and a Pillow</ns2:title>
-    <title>A Tall Tale About Granny... and a Pillow</title>
-    <ns2:summary>When Mum is driving Tammy and cousin Perry to the Park she tells them a story about Granny that is very hard to believe. It involves a pillow, elite fence climbing skills and secrets from Granny's dark past. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesrasp...</ns2:summary>
-    <description>&lt;p&gt;When Mum is driving Tammy and cousin Perry to the Park she tells them a story about Granny that is very hard to believe. It involves a pillow, elite fence climbing skills and secrets from Granny&amp;apos;s dark past.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;When Mum is driving Tammy and cousin Perry to the Park she tells them a story about Granny that is very hard to believe. It involves a pillow, elite fence climbing skills and secrets from Granny&amp;apos;s dark past.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/5621032-a-tall-tale-about-granny-and-a-pillow.mp3" length="9781909" type="audio/mpeg" />
+    <ns2:title>Chapter 20 - The Cat Whisperer - The Peski Kids, Bear in the Woods</ns2:title>
+    <title>Chapter 20 - The Cat Whisperer - The Peski Kids, Bear in the Woods</title>
+    <ns2:summary>The Peski Kids go to consult the Cat Lady about the bear. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;The Peski Kids go to consult the Cat Lady about the bear.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;The Peski Kids go to consult the Cat Lady about the bear.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10730977-chapter-20-the-cat-whisperer-the-peski-kids-bear-in-the-woods.mp3" length="5787421" type="audio/mpeg" />
     <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-5621032</guid>
-    <pubDate>Wed, 30 Sep 2020 06:00:00 +1000</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5621032/transcript" type="text/html" />
-    <ns1:soundbite startTime="156.435" duration="29.0" />
-    <ns2:duration>811</ns2:duration>
+    <guid isPermaLink="false">Buzzsprout-10730977</guid>
+    <pubDate>Mon, 13 Jun 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>478</ns2:duration>
     <ns2:keywords />
-    <ns2:season>1</ns2:season>
-    <ns2:episode>32</ns2:episode>
+    <ns2:season>3</ns2:season>
+    <ns2:episode>21</ns2:episode>
     <ns2:episodeType>full</ns2:episodeType>
     <ns2:explicit>false</ns2:explicit>
   </item>
   <item>
-    <ns2:title>'The Princess and the Pea' told by Nanny Piggins</ns2:title>
-    <title>'The Princess and the Pea' told by Nanny Piggins</title>
-    <ns2:summary>Nanny Piggins tells her version of the classic story 'The Princess and the Pea' with her own strongly held views on the subject. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live...</ns2:summary>
-    <description>&lt;p&gt;Nanny Piggins tells her version of the classic story &amp;apos;The Princess and the Pea&amp;apos; with her own strongly held views on the subject.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;Nanny Piggins tells her version of the classic story &amp;apos;The Princess and the Pea&amp;apos; with her own strongly held views on the subject.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/5344462-the-princess-and-the-pea-told-by-nanny-piggins.mp3" length="10940508" type="audio/mpeg" />
+    <ns2:title>Chapter 19 - The Mayoral Proposition - The Peski Kids, Bear in the Woods</ns2:title>
+    <title>Chapter 19 - The Mayoral Proposition - The Peski Kids, Bear in the Woods</title>
+    <ns2:summary>The mayor makes a surprise visit to the Peski house with propositions for Mr Peski and April. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;The mayor makes a surprise visit to the Peski house with propositions for Mr Peski and April.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;The mayor makes a surprise visit to the Peski house with propositions for Mr Peski and April.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10730956-chapter-19-the-mayoral-proposition-the-peski-kids-bear-in-the-woods.mp3" length="12724511" type="audio/mpeg" />
     <ns2:author>R.A. Spratt</ns2:author>
-    <guid isPermaLink="false">Buzzsprout-5344462</guid>
-    <pubDate>Wed, 23 Sep 2020 06:00:00 +1000</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/5344462/transcript" type="text/html" />
-    <ns1:soundbite startTime="18.667" duration="49.0" />
-    <ns2:duration>908</ns2:duration>
+    <guid isPermaLink="false">Buzzsprout-10730956</guid>
+    <pubDate>Fri, 10 Jun 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>1056</ns2:duration>
     <ns2:keywords />
-    <ns2:season>1</ns2:season>
-    <ns2:episode>31</ns2:episode>
+    <ns2:season>3</ns2:season>
+    <ns2:episode>20</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 18 - Neil - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 18 - Neil - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>Fin gets to know the Cat Lady's grandson. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;Fin gets to know the Cat Lady&amp;apos;s grandson.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Fin gets to know the Cat Lady&amp;apos;s grandson.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10730931-chapter-18-neil-the-peski-kids-2-bear-in-the-woods.mp3" length="5002785" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10730931</guid>
+    <pubDate>Wed, 08 Jun 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>413</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>19</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 17 - Tension - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 17 - Tension - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>Loretta bumps into Joe while he's waiting outside the psychiatrist's van. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;Loretta bumps into Joe while he&amp;apos;s waiting outside the psychiatrist&amp;apos;s van.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Loretta bumps into Joe while he&amp;apos;s waiting outside the psychiatrist&amp;apos;s van.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10695480-chapter-17-tension-the-peski-kids-2-bear-in-the-woods.mp3" length="6643490" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10695480</guid>
+    <pubDate>Mon, 06 Jun 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>550</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>18</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 16 - Pretty Please - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 16 - Pretty Please - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>Dad has a grafting accident, Loretta helps him and together they uncover a secret from the burned out computer. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;Dad has a grafting accident, Loretta helps him and together they uncover a secret from the burned out computer.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Dad has a grafting accident, Loretta helps him and together they uncover a secret from the burned out computer.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10695477-chapter-16-pretty-please-the-peski-kids-2-bear-in-the-woods.mp3" length="6572031" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10695477</guid>
+    <pubDate>Fri, 03 Jun 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>544</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>17</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 15 - More than One Way to Skin a Cat - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 15 - More than One Way to Skin a Cat - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>Fin meets another boy at the Cat Lady's farmhouse. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;Fin meets another boy at the Cat Lady&amp;apos;s farmhouse.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Fin meets another boy at the Cat Lady&amp;apos;s farmhouse.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10695475-chapter-15-more-than-one-way-to-skin-a-cat-the-peski-kids-2-bear-in-the-woods.mp3" length="6001553" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10695475</guid>
+    <pubDate>Wed, 01 Jun 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>496</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>16</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 14 - Head Shrinking - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 14 - Head Shrinking - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>April and Pumpkin meet Dr Hilary, the travelling regional psychiatrist. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;April and Pumpkin meet Dr Hilary, the travelling regional psychiatrist.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;April and Pumpkin meet Dr Hilary, the travelling regional psychiatrist.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10656061-chapter-14-head-shrinking-the-peski-kids-2-bear-in-the-woods.mp3" length="7484542" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10656061</guid>
+    <pubDate>Mon, 30 May 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>620</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>15</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 13 - Back in Hospital - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 13 - Back in Hospital - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>April and Officer Odinsson end up back in hospital. Dr Vass has a new idea about what might be causing April to see bears. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;April and Officer Odinsson end up back in hospital. Dr Vass has a new idea about what might be causing April to see bears.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;April and Officer Odinsson end up back in hospital. Dr Vass has a new idea about what might be causing April to see bears.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10656009-chapter-13-back-in-hospital-the-peski-kids-2-bear-in-the-woods.mp3" length="6804004" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10656009</guid>
+    <pubDate>Fri, 27 May 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>563</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>14</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 12 - Going on a Bear Hunt - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 12 - Going on a Bear Hunt - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>April drags everyone back out into the bush to find the bear she insists she saw. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;April drags everyone back out into the bush to find the bear she insists she saw.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;April drags everyone back out into the bush to find the bear she insists she saw.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10655628-chapter-12-going-on-a-bear-hunt-the-peski-kids-2-bear-in-the-woods.mp3" length="9033093" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10655628</guid>
+    <pubDate>Wed, 25 May 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>749</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>13</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 11 - The Cat Lady - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 11 - The Cat Lady - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>Fin begins his "training" with the Cat Lady. She has some strange ideas. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;Fin begins his &amp;quot;training&amp;quot; with the Cat Lady. She has some strange ideas.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Fin begins his &amp;quot;training&amp;quot; with the Cat Lady. She has some strange ideas.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10618158-chapter-11-the-cat-lady-the-peski-kids-2-bear-in-the-woods.mp3" length="7963206" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10618158</guid>
+    <pubDate>Mon, 23 May 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>659</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>12</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 10 - The Long Arm of the Law - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 10 - The Long Arm of the Law - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>Constable Pike pulls over the Peski Kids and takes Fin away to do his community service with the Cat Lady. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;Constable Pike pulls over the Peski Kids and takes Fin away to do his community service with the Cat Lady.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Constable Pike pulls over the Peski Kids and takes Fin away to do his community service with the Cat Lady.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10618153-chapter-10-the-long-arm-of-the-law-the-peski-kids-2-bear-in-the-woods.mp3" length="5520048" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10618153</guid>
+    <pubDate>Fri, 20 May 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>456</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>11</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 9 - The Office of Animal Control - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 9 - The Office of Animal Control - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>The Peski Kids go to Officer Odinsson for help catching the bear. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;The Peski Kids go to Officer Odinsson for help catching the bear.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;The Peski Kids go to Officer Odinsson for help catching the bear.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10617984-chapter-9-the-office-of-animal-control-the-peski-kids-2-bear-in-the-woods.mp3" length="5040448" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10617984</guid>
+    <pubDate>Wed, 18 May 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>416</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>10</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 8 - Hide and Seek - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 8 - Hide and Seek - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>April wakes up determined to rescue the bear she saw. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;April wakes up determined to rescue the bear she saw.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;April wakes up determined to rescue the bear she saw.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10574936-chapter-8-hide-and-seek-the-peski-kids-2-bear-in-the-woods.mp3" length="7481717" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10574936</guid>
+    <pubDate>Mon, 16 May 2022 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10574936/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10574936/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10574936/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10574936/transcript.vtt" type="text/vtt" />
+    <ns2:duration>619</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>9</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 7 - All in the Mind - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 7 - All in the Mind - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>When April wakes up in hospital nobody believes that she saw a bear. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;When April wakes up in hospital nobody believes that she saw a bear.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When April wakes up in hospital nobody believes that she saw a bear.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10574880-chapter-7-all-in-the-mind-the-peski-kids-2-bear-in-the-woods.mp3" length="6964497" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10574880</guid>
+    <pubDate>Fri, 13 May 2022 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10574880/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10574880/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10574880/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10574880/transcript.vtt" type="text/vtt" />
+    <ns2:duration>576</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>8</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 6 - Near Death Experience - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 6 - Near Death Experience - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>April has to fight for her life to get out of a flash flood, and that's only the second most dangerous thing to happen to her in this episode. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://ras...</ns2:summary>
+    <description>&lt;p&gt;April has to fight for her life to get out of a flash flood, and that&amp;apos;s only the second most dangerous thing to happen to her in this episode.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;April has to fight for her life to get out of a flash flood, and that&amp;apos;s only the second most dangerous thing to happen to her in this episode.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10574837-chapter-6-near-death-experience-the-peski-kids-2-bear-in-the-woods.mp3" length="4646089" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10574837</guid>
+    <pubDate>Wed, 11 May 2022 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10574837/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10574837/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10574837/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10574837/transcript.vtt" type="text/vtt" />
+    <ns2:duration>383</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>7</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 5 (Part 2) - Community Service - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 5 (Part 2) - Community Service - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>When April and Loretta start pulling rubbish out of the creek, Matilda refuses to help. Wrestling ensues. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;When April and Loretta start pulling rubbish out of the creek, Matilda refuses to help. Wrestling ensues.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When April and Loretta start pulling rubbish out of the creek, Matilda refuses to help. Wrestling ensues.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10539933-chapter-5-part-2-community-service-the-peski-kids-2-bear-in-the-woods.mp3" length="6005302" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10539933</guid>
+    <pubDate>Mon, 09 May 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>496</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>6</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 5 (Part 1) - Community Service - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 5 (Part 1) - Community Service - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>The Peski Kids set off into the bush with Constable Pike to do their community service. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;The Peski Kids set off into the bush with Constable Pike to do their community service.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;The Peski Kids set off into the bush with Constable Pike to do their community service.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10539564-chapter-5-part-1-community-service-the-peski-kids-2-bear-in-the-woods.mp3" length="10090122" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10539564</guid>
+    <pubDate>Fri, 06 May 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>837</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>5</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 4 - Hard Drive - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 4 - Hard Drive - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>Ingrid tell Dad to fix the burnt out computer. Professor Maynard tells the Peski Kids to do a better job of fulfilling their mission. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com...</ns2:summary>
+    <description>&lt;p&gt;Ingrid tell Dad to fix the burnt out computer. Professor Maynard tells the Peski Kids to do a better job of fulfilling their mission.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Ingrid tell Dad to fix the burnt out computer. Professor Maynard tells the Peski Kids to do a better job of fulfilling their mission.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10535775-chapter-4-hard-drive-the-peski-kids-2-bear-in-the-woods.mp3" length="9354064" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10535775</guid>
+    <pubDate>Wed, 04 May 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>775</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>4</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 3 - The Cat Lady - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 3 - The Cat Lady - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>The cat lady arrives and she's not what the Peski Kids expected. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;The cat lady arrives and she&amp;apos;s not what the Peski Kids expected.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;The cat lady arrives and she&amp;apos;s not what the Peski Kids expected.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10497894-chapter-3-the-cat-lady-the-peski-kids-2-bear-in-the-woods.mp3" length="10923296" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10497894</guid>
+    <pubDate>Mon, 02 May 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>906</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>3</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 2 - In Town - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Chapter 2 - In Town - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>When the Peski Kids go into town, Pumpkin chases a cat up a telegraph pole. The owner of the cat hits April with her handbag. The mayor is worried about a cat up a telegraph pole with Daffodil Day coming up. They turn to the closest thing Currawong has to a super hero. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me ...</ns2:summary>
+    <description>&lt;p&gt;When the Peski Kids go into town, Pumpkin chases a cat up a telegraph pole. The owner of the cat hits April with her handbag. The mayor is worried about a cat up a telegraph pole with Daffodil Day coming up. They turn to the closest thing Currawong has to a super hero.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When the Peski Kids go into town, Pumpkin chases a cat up a telegraph pole. The owner of the cat hits April with her handbag. The mayor is worried about a cat up a telegraph pole with Daffodil Day coming up. They turn to the closest thing Currawong has to a super hero.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10497585-chapter-2-in-town-the-peski-kids-2-bear-in-the-woods.mp3" length="8128392" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10497585</guid>
+    <pubDate>Fri, 29 Apr 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>673</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>2</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Prologue &amp; Chapter 1 - The Peski Kids 2, Bear in the Woods</ns2:title>
+    <title>Prologue &amp; Chapter 1 - The Peski Kids 2, Bear in the Woods</title>
+    <ns2:summary>When the Peski kids home catches fire, Ingrid heroically races in and throws the flaming computer out the window. But who set fire to it in the first place? Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link....</ns2:summary>
+    <description>&lt;p&gt;When the Peski kids home catches fire, Ingrid heroically races in and throws the flaming computer out the window. But who set fire to it in the first place?&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When the Peski kids home catches fire, Ingrid heroically races in and throws the flaming computer out the window. But who set fire to it in the first place?&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10496504-prologue-chapter-1-the-peski-kids-2-bear-in-the-woods.mp3" length="12177165" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10496504</guid>
+    <pubDate>Wed, 27 Apr 2022 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10496504/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10496504/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10496504/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10496504/transcript.vtt" type="text/vtt" />
+    <ns2:duration>1011</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>3</ns2:season>
+    <ns2:episode>1</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 26 &amp; 27 - The Key - The Peski Kids</ns2:title>
+    <title>Chapter 26 &amp; 27 - The Key - The Peski Kids</title>
+    <ns2:summary>The gripping conclusion to this action packed novel. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;The gripping conclusion to this action packed novel.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;The gripping conclusion to this action packed novel.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10444305-chapter-26-27-the-key-the-peski-kids.mp3" length="9641479" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10444305</guid>
+    <pubDate>Mon, 25 Apr 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>799</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>2</ns2:season>
+    <ns2:episode>27</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 25 - The Chase - The Peski Kids</ns2:title>
+    <title>Chapter 25 - The Chase - The Peski Kids</title>
+    <ns2:summary>When Coach Voss tries to escape in a hot air balloon, the Peski Kids give chase in their Dad's home made helicopter. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;When Coach Voss tries to escape in a hot air balloon, the Peski Kids give chase in their Dad&amp;apos;s home made helicopter.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;When Coach Voss tries to escape in a hot air balloon, the Peski Kids give chase in their Dad&amp;apos;s home made helicopter.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10444042-chapter-25-the-chase-the-peski-kids.mp3" length="8720500" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10444042</guid>
+    <pubDate>Fri, 22 Apr 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>723</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>2</ns2:season>
+    <ns2:episode>26</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Chapter 24 - Everything Goes Wrong - The Peski Kids</ns2:title>
+    <title>Chapter 24 - Everything Goes Wrong - The Peski Kids</title>
+    <ns2:summary>Finally, it's the big day of the Currawong Cockroach Races, but when the Peski Kids get there everything goes wrong. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;Finally, it&amp;apos;s the big day of the Currawong Cockroach Races, but when the Peski Kids get there everything goes wrong.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Finally, it&amp;apos;s the big day of the Currawong Cockroach Races, but when the Peski Kids get there everything goes wrong.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10443968-chapter-24-everything-goes-wrong-the-peski-kids.mp3" length="14721582" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10443968</guid>
+    <pubDate>Wed, 20 Apr 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>1223</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>2</ns2:season>
+    <ns2:episode>25</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>The Cockroach Races - Chapter 23 - The Peski Kids</ns2:title>
+    <title>The Cockroach Races - Chapter 23 - The Peski Kids</title>
+    <ns2:summary>The Peski Kids arrive at the Cockroach Races, some of them disguised as cockroaches. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;The Peski Kids arrive at the Cockroach Races, some of them disguised as cockroaches.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;The Peski Kids arrive at the Cockroach Races, some of them disguised as cockroaches.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10402164-the-cockroach-races-chapter-23-the-peski-kids.mp3" length="7127469" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10402164</guid>
+    <pubDate>Mon, 18 Apr 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>590</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>2</ns2:season>
+    <ns2:episode>24</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Depressed - Chapter 22 - The Peski Kids</ns2:title>
+    <title>Depressed - Chapter 22 - The Peski Kids</title>
+    <ns2:summary>Fin is depressed because Joe went on a date with Loretta. April is oblivious. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;Fin is depressed because Joe went on a date with Loretta. April is oblivious.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Fin is depressed because Joe went on a date with Loretta. April is oblivious.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10402094-depressed-chapter-22-the-peski-kids.mp3" length="4967018" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10402094</guid>
+    <pubDate>Fri, 15 Apr 2022 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10402094/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10402094/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10402094/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10402094/transcript.vtt" type="text/vtt" />
+    <ns2:duration>410</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>2</ns2:season>
+    <ns2:episode>23</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>The Ball - Chapter 21 - The Peski Kids</ns2:title>
+    <title>The Ball - Chapter 21 - The Peski Kids</title>
+    <ns2:summary>The Peski Kids go to the Cockroach Races Ball, some of them dressed as animals. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;The Peski Kids go to the Cockroach Races Ball, some of them dressed as animals.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;The Peski Kids go to the Cockroach Races Ball, some of them dressed as animals.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10402022-the-ball-chapter-21-the-peski-kids.mp3" length="9948671" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10402022</guid>
+    <pubDate>Wed, 13 Apr 2022 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10402022/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10402022/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10402022/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10402022/transcript.vtt" type="text/vtt" />
+    <ns2:duration>825</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>2</ns2:season>
+    <ns2:episode>22</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Talking to Girls - Chapter 20 - The Peski Kids</ns2:title>
+    <title>Talking to Girls - Chapter 20 - The Peski Kids</title>
+    <ns2:summary>In his desperation to not ask Daisy to the Cockroaches Races Ball, Joe lied and said he was taking Loretta. But he didn't think it through. Now he has to do something much worse - he has to ask Loretta.  Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesras...</ns2:summary>
+    <description>&lt;p&gt;In his desperation to not ask Daisy to the Cockroaches Races Ball, Joe lied and said he was taking Loretta. But he didn&amp;apos;t think it through. Now he has to do something much worse - he has to ask Loretta. &lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;In his desperation to not ask Daisy to the Cockroaches Races Ball, Joe lied and said he was taking Loretta. But he didn&amp;apos;t think it through. Now he has to do something much worse - he has to ask Loretta. &lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10367033-talking-to-girls-chapter-20-the-peski-kids.mp3" length="7285451" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10367033</guid>
+    <pubDate>Mon, 11 Apr 2022 06:00:00 +1000</pubDate>
+    <ns2:duration>603</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>2</ns2:season>
+    <ns2:episode>21</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Something in the Garden - Chapter 19 - The Peski Kids</ns2:title>
+    <title>Something in the Garden - Chapter 19 - The Peski Kids</title>
+    <ns2:summary>Dad summons the courage to confront an intruder in the garden.  Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;Dad summons the courage to confront an intruder in the garden. &lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Dad summons the courage to confront an intruder in the garden. &lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10364132-something-in-the-garden-chapter-19-the-peski-kids.mp3" length="6411513" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10364132</guid>
+    <pubDate>Fri, 08 Apr 2022 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10364132/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10364132/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10364132/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10364132/transcript.vtt" type="text/vtt" />
+    <ns2:duration>530</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>2</ns2:season>
+    <ns2:episode>20</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Confrontation with a Beauty - Chapter 18 - The Peski Kids</ns2:title>
+    <title>Confrontation with a Beauty - Chapter 18 - The Peski Kids</title>
+    <ns2:summary>Daisy Odinsdottir corners Joe in the boys bathroom. How will he get out of asking her to the Cockroach Races Ball? Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;Daisy Odinsdottir corners Joe in the boys bathroom. How will he get out of asking her to the Cockroach Races Ball?&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Daisy Odinsdottir corners Joe in the boys bathroom. How will he get out of asking her to the Cockroach Races Ball?&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10359311-confrontation-with-a-beauty-chapter-18-the-peski-kids.mp3" length="6268892" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10359311</guid>
+    <pubDate>Wed, 06 Apr 2022 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10359311/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10359311/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10359311/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10359311/transcript.vtt" type="text/vtt" />
+    <ns2:duration>518</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>2</ns2:season>
+    <ns2:episode>19</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>Framed Again - Chapter 17 - The Peski Kids</ns2:title>
+    <title>Framed Again - Chapter 17 - The Peski Kids</title>
+    <ns2:summary>April and Fin have another terrible day at school when they are accused of killing another cockroach. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-shows/ </ns2:summary>
+    <description>&lt;p&gt;April and Fin have another terrible day at school when they are accused of killing another cockroach.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;April and Fin have another terrible day at school when they are accused of killing another cockroach.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10330638-framed-again-chapter-17-the-peski-kids.mp3" length="10263402" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10330638</guid>
+    <pubDate>Mon, 04 Apr 2022 06:00:00 +1000</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10330638/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10330638/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10330638/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10330638/transcript.vtt" type="text/vtt" />
+    <ns2:duration>851</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>2</ns2:season>
+    <ns2:episode>18</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
+  <item>
+    <ns2:title>At Home - Chapter 16 - The Peski Kids</ns2:title>
+    <title>At Home - Chapter 16 - The Peski Kids</title>
+    <ns2:summary>Dad finds bugs and not the creepy crawly kind all over the house. He wants to run away from home but the kids won't let him. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-sho...</ns2:summary>
+    <description>&lt;p&gt;Dad finds bugs and not the creepy crawly kind all over the house. He wants to run away from home but the kids won&amp;apos;t let him.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;Dad finds bugs and not the creepy crawly kind all over the house. He wants to run away from home but the kids won&amp;apos;t let him.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/10330372-at-home-chapter-16-the-peski-kids.mp3" length="7857201" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-10330372</guid>
+    <pubDate>Fri, 01 Apr 2022 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10330372/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10330372/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10330372/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/10330372/transcript.vtt" type="text/vtt" />
+    <ns2:duration>651</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>2</ns2:season>
+    <ns2:episode>17</ns2:episode>
     <ns2:episodeType>full</ns2:episodeType>
     <ns2:explicit>false</ns2:explicit>
   </item>

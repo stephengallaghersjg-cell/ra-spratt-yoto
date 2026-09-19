@@ -1,44 +1,14 @@
 # R.A. Spratt Yoto feeds
 
-400 episodes found; 40 chronological volumes.
+400 episodes found; 10 chronological volumes.
 
-- **Vol. 01 — Episodes 001–010** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-01.xml
-- **Vol. 02 — Episodes 011–020** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-02.xml
-- **Vol. 03 — Episodes 021–030** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-03.xml
-- **Vol. 04 — Episodes 031–040** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-04.xml
-- **Vol. 05 — Episodes 041–050** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-05.xml
-- **Vol. 06 — Episodes 051–060** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-06.xml
-- **Vol. 07 — Episodes 061–070** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-07.xml
-- **Vol. 08 — Episodes 071–080** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-08.xml
-- **Vol. 09 — Episodes 081–090** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-09.xml
-- **Vol. 10 — Episodes 091–100** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-10.xml
-- **Vol. 11 — Episodes 101–110** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-11.xml
-- **Vol. 12 — Episodes 111–120** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-12.xml
-- **Vol. 13 — Episodes 121–130** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-13.xml
-- **Vol. 14 — Episodes 131–140** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-14.xml
-- **Vol. 15 — Episodes 141–150** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-15.xml
-- **Vol. 16 — Episodes 151–160** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-16.xml
-- **Vol. 17 — Episodes 161–170** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-17.xml
-- **Vol. 18 — Episodes 171–180** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-18.xml
-- **Vol. 19 — Episodes 181–190** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-19.xml
-- **Vol. 20 — Episodes 191–200** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-20.xml
-- **Vol. 21 — Episodes 201–210** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-21.xml
-- **Vol. 22 — Episodes 211–220** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-22.xml
-- **Vol. 23 — Episodes 221–230** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-23.xml
-- **Vol. 24 — Episodes 231–240** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-24.xml
-- **Vol. 25 — Episodes 241–250** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-25.xml
-- **Vol. 26 — Episodes 251–260** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-26.xml
-- **Vol. 27 — Episodes 261–270** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-27.xml
-- **Vol. 28 — Episodes 271–280** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-28.xml
-- **Vol. 29 — Episodes 281–290** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-29.xml
-- **Vol. 30 — Episodes 291–300** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-30.xml
-- **Vol. 31 — Episodes 301–310** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-31.xml
-- **Vol. 32 — Episodes 311–320** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-32.xml
-- **Vol. 33 — Episodes 321–330** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-33.xml
-- **Vol. 34 — Episodes 331–340** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-34.xml
-- **Vol. 35 — Episodes 341–350** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-35.xml
-- **Vol. 36 — Episodes 351–360** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-36.xml
-- **Vol. 37 — Episodes 361–370** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-37.xml
-- **Vol. 38 — Episodes 371–380** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-38.xml
-- **Vol. 39 — Episodes 381–390** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-39.xml
-- **Vol. 40 — Episodes 391–400** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-40.xml
+- **Vol. 01 — Episodes 001–040** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-01.xml
+- **Vol. 02 — Episodes 041–080** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-02.xml
+- **Vol. 03 — Episodes 081–120** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-03.xml
+- **Vol. 04 — Episodes 121–160** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-04.xml
+- **Vol. 05 — Episodes 161–200** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-05.xml
+- **Vol. 06 — Episodes 201–240** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-06.xml
+- **Vol. 07 — Episodes 241–280** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-07.xml
+- **Vol. 08 — Episodes 281–320** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-08.xml
+- **Vol. 09 — Episodes 321–360** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-09.xml
+- **Vol. 10 — Episodes 361–400** — https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/feeds/ra-spratt-vol-10.xml
