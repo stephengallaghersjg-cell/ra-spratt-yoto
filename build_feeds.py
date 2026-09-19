@@ -41,3 +41,5 @@ with open("FEEDS.md", "w", encoding="utf-8") as f:
         a, b, vol = start+1, min(start+PER, len(items)), start//PER+1
         f.write(f"- **Vol. {vol:02d} — Episodes {a:03d}–{b:03d}** — {base}/ra-spratt-vol-{vol:02d}.xml\n")
 print(f"Generated {math.ceil(len(items)/PER)} feeds from {len(items)} episodes")
+
+# build trigger
