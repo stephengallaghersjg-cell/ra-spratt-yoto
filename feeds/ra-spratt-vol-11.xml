@@ -3,9 +3,9 @@
 <channel>
   <ns0:link href="https://rss.buzzsprout.com/852289.rss" rel="self" type="application/rss+xml" />
   <ns0:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
-  <title>R.A. Spratt Vol. 11 — Episodes 401–404</title>
+  <title>R.A. Spratt Vol. 11 — Episodes 401–405</title>
 
-  <lastBuildDate>Tue, 13 Oct 2026 15:00:01 -0400</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 15:00:00 -0400</lastBuildDate>
   <link>http://www.raspratt.com</link>
   <language>en-gb</language>
   <copyright>© 2026 Bedtime Stories with R.A. Spratt</copyright>
@@ -18,7 +18,7 @@
   <ns2:author>R.A. Spratt</ns2:author>
   <ns2:type>episodic</ns2:type>
   <ns2:explicit>false</ns2:explicit>
-  <description>Custom chronological volume 11 of Bedtime Stories with R.A. Spratt. Episodes 401–404 from the official podcast feed.</description>
+  <description>Custom chronological volume 11 of Bedtime Stories with R.A. Spratt. Episodes 401–405 from the official podcast feed.</description>
   <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
   <ns2:keywords>ra spratt, bedtime stories, author, nanny piggins, friday barnes, peski kids, R.A., kids stories, car stories, road trip stories, fairy tales</ns2:keywords>
   <ns2:owner>
@@ -40,6 +40,27 @@
     <ns2:category text="Comedy Fiction" />
   </ns2:category>
   <ns1:person role="host" href="http://raspratt.com" img="https://storage.buzzsprout.com/dvl4jzsy7f5a4e6ezan7ddrah0sl">R.A. Spratt</ns1:person>
+  <item>
+    <ns2:title>Friday Barnes and the Case of the Missing Homework + Q&amp;A LIVE at the CWF</ns2:title>
+    <title>Friday Barnes and the Case of the Missing Homework + Q&amp;A LIVE at the CWF</title>
+    <ns2:summary>This is me performing 'Friday Barnes and the Case of the Missing Homework' as well as answering questions from the audience when I was at the Canberra Writers' Festival performing in the National Library. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesrasprat...</ns2:summary>
+    <description>&lt;p&gt;This is me performing &amp;apos;Friday Barnes and the Case of the Missing Homework&amp;apos; as well as answering questions from the audience when I was at the Canberra Writers&amp;apos; Festival performing in the National Library.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns3:encoded>&lt;p&gt;This is me performing &amp;apos;Friday Barnes and the Case of the Missing Homework&amp;apos; as well as answering questions from the audience when I was at the Canberra Writers&amp;apos; Festival performing in the National Library.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/19990076-friday-barnes-and-the-case-of-the-missing-homework-q-a-live-at-the-cwf.mp3" length="23852674" type="audio/mpeg" />
+    <ns2:author>R.A. Spratt</ns2:author>
+    <guid isPermaLink="false">Buzzsprout-19990076</guid>
+    <pubDate>Wed, 21 Oct 2026 06:00:00 +1100</pubDate>
+    <ns1:transcript url="https://www.buzzsprout.com/852289/19990076/transcript" type="text/html" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/19990076/transcript.json" type="application/json" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/19990076/transcript.srt" type="application/x-subrip" />
+    <ns1:transcript url="https://www.buzzsprout.com/852289/19990076/transcript.vtt" type="text/vtt" />
+    <ns2:duration>1984</ns2:duration>
+    <ns2:keywords />
+    <ns2:season>18</ns2:season>
+    <ns2:episode>12</ns2:episode>
+    <ns2:episodeType>full</ns2:episodeType>
+    <ns2:explicit>false</ns2:explicit>
+  </item>
   <item>
     <ns2:title>'Paris is such a rotter' as told by Nanny Piggins</ns2:title>
     <title>'Paris is such a rotter' as told by Nanny Piggins</title>
