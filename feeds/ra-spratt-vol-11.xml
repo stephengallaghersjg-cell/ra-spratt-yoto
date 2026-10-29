@@ -1,149 +1,171 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="https://podcastindex.org/namespace/1.0" xmlns:ns2="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns3="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns1="http://www.w3.org/2005/Atom" xmlns:ns2="https://podcastindex.org/namespace/1.0" xmlns:ns3="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns4="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<html:script src="https://www.buzzsprout.com/vendor/xslt-polyfill/xslt-polyfill-1.0.33.min.js" charset="utf-8" />
 <channel>
-  <ns0:link href="https://rss.buzzsprout.com/852289.rss" rel="self" type="application/rss+xml" />
-  <ns0:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
-  <title>R.A. Spratt Vol. 11 — Episodes 401–405</title>
+  <ns1:link href="https://rss.buzzsprout.com/852289.rss" rel="self" type="application/rss+xml" />
+  <ns1:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+  <title>R.A. Spratt Vol. 11 — Episodes 401–406</title>
 
-  <lastBuildDate>Tue, 20 Oct 2026 15:00:00 -0400</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 15:00:03 -0400</lastBuildDate>
   <link>http://www.raspratt.com</link>
   <language>en-gb</language>
   <copyright>© 2026 Bedtime Stories with R.A. Spratt</copyright>
-  <ns1:locked>yes</ns1:locked>
-  <ns1:funding url="https://www.buymeacoffee.com/storiesraspratt">Support this Podcast</ns1:funding>
-  <ns1:guid>7b4dcb18-18f9-5231-94a2-6c9fda75f48d</ns1:guid>
-<ns1:podroll>
-    <ns1:remoteItem feedGuid="5c7cd1b2-a19b-511a-9479-780ca4a50c5f" feedUrl="https://feeds.buzzsprout.com/2319192.rss" />
-  </ns1:podroll>
-  <ns2:author>R.A. Spratt</ns2:author>
-  <ns2:type>episodic</ns2:type>
-  <ns2:explicit>false</ns2:explicit>
-  <description>Custom chronological volume 11 of Bedtime Stories with R.A. Spratt. Episodes 401–405 from the official podcast feed.</description>
+  <ns2:locked>yes</ns2:locked>
+  <ns2:funding url="https://www.buymeacoffee.com/storiesraspratt">Support this Podcast</ns2:funding>
+  <ns2:guid>7b4dcb18-18f9-5231-94a2-6c9fda75f48d</ns2:guid>
+<ns2:podroll>
+    <ns2:remoteItem feedGuid="5c7cd1b2-a19b-511a-9479-780ca4a50c5f" feedUrl="https://feeds.buzzsprout.com/2319192.rss" />
+  </ns2:podroll>
+  <ns3:author>R.A. Spratt</ns3:author>
+  <ns3:type>episodic</ns3:type>
+  <ns3:explicit>false</ns3:explicit>
+  <description>Custom chronological volume 11 of Bedtime Stories with R.A. Spratt. Episodes 401–406 from the official podcast feed.</description>
   <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
-  <ns2:keywords>ra spratt, bedtime stories, author, nanny piggins, friday barnes, peski kids, R.A., kids stories, car stories, road trip stories, fairy tales</ns2:keywords>
-  <ns2:owner>
-    <ns2:name>R.A. Spratt</ns2:name>
-  </ns2:owner>
+  <ns3:keywords>ra spratt, bedtime stories, author, nanny piggins, friday barnes, peski kids, R.A., kids stories, car stories, road trip stories, fairy tales</ns3:keywords>
+  <ns3:owner>
+    <ns3:name>R.A. Spratt</ns3:name>
+  </ns3:owner>
   <image>
      <url>https://storage.buzzsprout.com/xtm90y6dvl8iacfsqxfl6kdmsrcy?.jpg</url>
      <title>Bedtime Stories with R.A. Spratt</title>
      <link>http://www.raspratt.com</link>
   </image>
-  <ns2:image href="https://storage.buzzsprout.com/xtm90y6dvl8iacfsqxfl6kdmsrcy?.jpg" />
-  <ns2:category text="Kids &amp; Family">
-    <ns2:category text="Stories for Kids" />
-  </ns2:category>
-  <ns2:category text="Arts">
-    <ns2:category text="Books" />
-  </ns2:category>
-  <ns2:category text="Fiction">
-    <ns2:category text="Comedy Fiction" />
-  </ns2:category>
-  <ns1:person role="host" href="http://raspratt.com" img="https://storage.buzzsprout.com/dvl4jzsy7f5a4e6ezan7ddrah0sl">R.A. Spratt</ns1:person>
+  <ns3:image href="https://storage.buzzsprout.com/xtm90y6dvl8iacfsqxfl6kdmsrcy?.jpg" />
+  <ns3:category text="Kids &amp; Family">
+    <ns3:category text="Stories for Kids" />
+  </ns3:category>
+  <ns3:category text="Arts">
+    <ns3:category text="Books" />
+  </ns3:category>
+  <ns3:category text="Fiction">
+    <ns3:category text="Comedy Fiction" />
+  </ns3:category>
+  <ns2:person role="host" href="http://raspratt.com" img="https://storage.buzzsprout.com/dvl4jzsy7f5a4e6ezan7ddrah0sl">R.A. Spratt</ns2:person>
   <item>
-    <ns2:title>Friday Barnes and the Case of the Missing Homework + Q&amp;A LIVE at the CWF</ns2:title>
+    <ns3:title>'Odysseus and the Luck of Troy' as told by Nanny Piggins</ns3:title>
+    <title>'Odysseus and the Luck of Troy' as told by Nanny Piggins</title>
+    <ns3:summary>Having killed all the great Trojan heroes - Paris, Hector, the Queen of the Amazons etc - there is one thing left for the Greek army to do before they can overrun the city. They must steal the Luck of Troy. Luckily Odysseus has a cunning plan. R.A. Spratt will be performing her live show 'Christmas Stories with R.A. Spratt' at theatres in Auckland, Perth, Sydney and Melbourne this December. Here's a link to get tickets... https://raspratt.com/live-shows/  If you enjoyed the podcast pleas...</ns3:summary>
+    <description>&lt;p&gt;Having killed all the great Trojan heroes - Paris, Hector, the Queen of the Amazons etc - there is one thing left for the Greek army to do before they can overrun the city. They must steal the Luck of Troy. Luckily Odysseus has a cunning plan.&lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Having killed all the great Trojan heroes - Paris, Hector, the Queen of the Amazons etc - there is one thing left for the Greek army to do before they can overrun the city. They must steal the Luck of Troy. Luckily Odysseus has a cunning plan.&lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/20019778-odysseus-and-the-luck-of-troy-as-told-by-nanny-piggins.mp3" length="12903156" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-20019778</guid>
+    <pubDate>Wed, 28 Oct 2026 06:00:00 +1100</pubDate>
+    <ns2:transcript url="https://www.buzzsprout.com/852289/20019778/transcript" type="text/html" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/20019778/transcript.json" type="application/json" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/20019778/transcript.srt" type="application/x-subrip" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/20019778/transcript.vtt" type="text/vtt" />
+    <ns3:duration>1071</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>18</ns3:season>
+    <ns3:episode>13</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>Friday Barnes and the Case of the Missing Homework + Q&amp;A LIVE at the CWF</ns3:title>
     <title>Friday Barnes and the Case of the Missing Homework + Q&amp;A LIVE at the CWF</title>
-    <ns2:summary>This is me performing 'Friday Barnes and the Case of the Missing Homework' as well as answering questions from the audience when I was at the Canberra Writers' Festival performing in the National Library. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesrasprat...</ns2:summary>
-    <description>&lt;p&gt;This is me performing &amp;apos;Friday Barnes and the Case of the Missing Homework&amp;apos; as well as answering questions from the audience when I was at the Canberra Writers&amp;apos; Festival performing in the National Library.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;This is me performing &amp;apos;Friday Barnes and the Case of the Missing Homework&amp;apos; as well as answering questions from the audience when I was at the Canberra Writers&amp;apos; Festival performing in the National Library.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/19990076-friday-barnes-and-the-case-of-the-missing-homework-q-a-live-at-the-cwf.mp3" length="23852674" type="audio/mpeg" />
-    <ns2:author>R.A. Spratt</ns2:author>
+    <ns3:summary>This is me performing 'Friday Barnes and the Case of the Missing Homework' as well as answering questions from the audience when I was at the Canberra Writers' Festival performing in the National Library. R.A. Spratt will be performing her live show 'Christmas Stories with R.A. Spratt' at theatres in Auckland, Perth, Sydney and Melbourne this December. Here's a link to get tickets... https://raspratt.com/live-shows/  If you enjoyed the podcast please like, review and/or subscribe! Suppor...</ns3:summary>
+    <description>&lt;p&gt;This is me performing &amp;apos;Friday Barnes and the Case of the Missing Homework&amp;apos; as well as answering questions from the audience when I was at the Canberra Writers&amp;apos; Festival performing in the National Library.&lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;This is me performing &amp;apos;Friday Barnes and the Case of the Missing Homework&amp;apos; as well as answering questions from the audience when I was at the Canberra Writers&amp;apos; Festival performing in the National Library.&lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/19990076-friday-barnes-and-the-case-of-the-missing-homework-q-a-live-at-the-cwf.mp3" length="23995302" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
     <guid isPermaLink="false">Buzzsprout-19990076</guid>
     <pubDate>Wed, 21 Oct 2026 06:00:00 +1100</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19990076/transcript" type="text/html" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19990076/transcript.json" type="application/json" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19990076/transcript.srt" type="application/x-subrip" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19990076/transcript.vtt" type="text/vtt" />
-    <ns2:duration>1984</ns2:duration>
-    <ns2:keywords />
-    <ns2:season>18</ns2:season>
-    <ns2:episode>12</ns2:episode>
-    <ns2:episodeType>full</ns2:episodeType>
-    <ns2:explicit>false</ns2:explicit>
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19990076/transcript" type="text/html" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19990076/transcript.json" type="application/json" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19990076/transcript.srt" type="application/x-subrip" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19990076/transcript.vtt" type="text/vtt" />
+    <ns3:duration>1995</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>18</ns3:season>
+    <ns3:episode>12</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
   </item>
   <item>
-    <ns2:title>'Paris is such a rotter' as told by Nanny Piggins</ns2:title>
+    <ns3:title>'Paris is such a rotter' as told by Nanny Piggins</ns3:title>
     <title>'Paris is such a rotter' as told by Nanny Piggins</title>
-    <ns2:summary>Having just killed Achilles, Paris thinks he is on top of the world. But one dreadful mistake later and he is on a slippery slope to his doom. He may be able to slay the greatest Greek warrior of all time but can he survive his wife finding out that he is already married to a mountain nymph? Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amz...</ns2:summary>
-    <description>&lt;p&gt;Having just killed Achilles, Paris thinks he is on top of the world. But one dreadful mistake later and he is on a slippery slope to his doom. He may be able to slay the greatest Greek warrior of all time but can he survive his wife finding out that he is already married to a mountain nymph?&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;Having just killed Achilles, Paris thinks he is on top of the world. But one dreadful mistake later and he is on a slippery slope to his doom. He may be able to slay the greatest Greek warrior of all time but can he survive his wife finding out that he is already married to a mountain nymph?&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/19953534-paris-is-such-a-rotter-as-told-by-nanny-piggins.mp3" length="12617885" type="audio/mpeg" />
-    <ns2:author>R.A. Spratt</ns2:author>
+    <ns3:summary>Having just killed Achilles, Paris thinks he is on top of the world. But one dreadful mistake later and he is on a slippery slope to his doom. He may be able to slay the greatest Greek warrior of all time but can he survive his wife finding out that he is already married to a mountain nymph? R.A. Spratt will be performing her live show 'Christmas Stories with R.A. Spratt' at theatres in Auckland, Perth, Sydney and Melbourne this December. Here's a link to get tickets... https://raspratt....</ns3:summary>
+    <description>&lt;p&gt;Having just killed Achilles, Paris thinks he is on top of the world. But one dreadful mistake later and he is on a slippery slope to his doom. He may be able to slay the greatest Greek warrior of all time but can he survive his wife finding out that he is already married to a mountain nymph?&lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Having just killed Achilles, Paris thinks he is on top of the world. But one dreadful mistake later and he is on a slippery slope to his doom. He may be able to slay the greatest Greek warrior of all time but can he survive his wife finding out that he is already married to a mountain nymph?&lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/19953534-paris-is-such-a-rotter-as-told-by-nanny-piggins.mp3" length="12760514" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
     <guid isPermaLink="false">Buzzsprout-19953534</guid>
     <pubDate>Wed, 14 Oct 2026 06:00:00 +1100</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19953534/transcript" type="text/html" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19953534/transcript.json" type="application/json" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19953534/transcript.srt" type="application/x-subrip" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19953534/transcript.vtt" type="text/vtt" />
-    <ns2:duration>1047</ns2:duration>
-    <ns2:keywords />
-    <ns2:season>18</ns2:season>
-    <ns2:episode>11</ns2:episode>
-    <ns2:episodeType>full</ns2:episodeType>
-    <ns2:explicit>false</ns2:explicit>
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19953534/transcript" type="text/html" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19953534/transcript.json" type="application/json" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19953534/transcript.srt" type="application/x-subrip" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19953534/transcript.vtt" type="text/vtt" />
+    <ns3:duration>1059</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>18</ns3:season>
+    <ns3:episode>11</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
   </item>
   <item>
-    <ns2:title>'Ajax goes Berserk' as told by Nanny Piggins</ns2:title>
+    <ns3:title>'Ajax goes Berserk' as told by Nanny Piggins</ns3:title>
     <title>'Ajax goes Berserk' as told by Nanny Piggins</title>
-    <ns2:summary>Nanny Piggins continues the story of the Trojan War, she's up to the bit where Ajax goes berserk and the hero with the stinky foot returns. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspra...</ns2:summary>
-    <description>&lt;p&gt;Nanny Piggins continues the story of the Trojan War, she&amp;apos;s up to the bit where Ajax goes berserk and the hero with the stinky foot returns.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;Nanny Piggins continues the story of the Trojan War, she&amp;apos;s up to the bit where Ajax goes berserk and the hero with the stinky foot returns.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/19918408-ajax-goes-berserk-as-told-by-nanny-piggins.mp3" length="16523077" type="audio/mpeg" />
-    <ns2:author>R.A. Spratt</ns2:author>
+    <ns3:summary>Nanny Piggins continues the story of the Trojan War, she's up to the bit where Ajax goes berserk and the hero with the stinky foot returns. R.A. Spratt will be performing her live show 'Christmas Stories with R.A. Spratt' at theatres in Auckland, Perth, Sydney and Melbourne this December. Here's a link to get tickets... https://raspratt.com/live-shows/  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.t...</ns3:summary>
+    <description>&lt;p&gt;Nanny Piggins continues the story of the Trojan War, she&amp;apos;s up to the bit where Ajax goes berserk and the hero with the stinky foot returns.&lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Nanny Piggins continues the story of the Trojan War, she&amp;apos;s up to the bit where Ajax goes berserk and the hero with the stinky foot returns.&lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/19918408-ajax-goes-berserk-as-told-by-nanny-piggins.mp3" length="16665705" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
     <guid isPermaLink="false">Buzzsprout-19918408</guid>
     <pubDate>Wed, 07 Oct 2026 06:00:00 +1100</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19918408/transcript" type="text/html" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19918408/transcript.json" type="application/json" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19918408/transcript.srt" type="application/x-subrip" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19918408/transcript.vtt" type="text/vtt" />
-    <ns2:duration>1373</ns2:duration>
-    <ns2:keywords />
-    <ns2:season>18</ns2:season>
-    <ns2:episode>11</ns2:episode>
-    <ns2:episodeType>full</ns2:episodeType>
-    <ns2:explicit>false</ns2:explicit>
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19918408/transcript" type="text/html" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19918408/transcript.json" type="application/json" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19918408/transcript.srt" type="application/x-subrip" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19918408/transcript.vtt" type="text/vtt" />
+    <ns3:duration>1385</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>18</ns3:season>
+    <ns3:episode>11</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
   </item>
   <item>
-    <ns2:title>Nanny Piggins and the Duel at Dead Man's Gorge </ns2:title>
+    <ns3:title>Nanny Piggins and the Duel at Dead Man's Gorge </ns3:title>
     <title>Nanny Piggins and the Duel at Dead Man's Gorge </title>
-    <ns2:summary>I have been on tour for the release of Friday Barnes 14 for the last two weeks. I ran out of time to write and record a fresh episode for this week so I'm dropping a rerun of one of my all time favourite Nanny Piggins stories.  Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buy...</ns2:summary>
-    <description>&lt;p&gt;I have been on tour for the release of Friday Barnes 14 for the last two weeks. I ran out of time to write and record a fresh episode for this week so I&amp;apos;m dropping a rerun of one of my all time favourite Nanny Piggins stories. &lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;I have been on tour for the release of Friday Barnes 14 for the last two weeks. I ran out of time to write and record a fresh episode for this week so I&amp;apos;m dropping a rerun of one of my all time favourite Nanny Piggins stories. &lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/19881905-nanny-piggins-and-the-duel-at-dead-man-s-gorge.mp3" length="17093597" type="audio/mpeg" />
-    <ns2:author>R.A. Spratt</ns2:author>
+    <ns3:summary>I have been on tour for the release of Friday Barnes 14 for the last two weeks. I ran out of time to write and record a fresh episode for this week so I'm dropping a rerun of one of my all time favourite Nanny Piggins stories.  R.A. Spratt will be performing her live show 'Christmas Stories with R.A. Spratt' at theatres in Auckland, Perth, Sydney and Melbourne this December. Here's a link to get tickets... https://raspratt.com/live-shows/  If you enjoyed the podcast please like, rev...</ns3:summary>
+    <description>&lt;p&gt;I have been on tour for the release of Friday Barnes 14 for the last two weeks. I ran out of time to write and record a fresh episode for this week so I&amp;apos;m dropping a rerun of one of my all time favourite Nanny Piggins stories. &lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;I have been on tour for the release of Friday Barnes 14 for the last two weeks. I ran out of time to write and record a fresh episode for this week so I&amp;apos;m dropping a rerun of one of my all time favourite Nanny Piggins stories. &lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/19881905-nanny-piggins-and-the-duel-at-dead-man-s-gorge.mp3" length="17236226" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
     <guid isPermaLink="false">Buzzsprout-19881905</guid>
     <pubDate>Wed, 30 Sep 2026 06:00:00 +1000</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19881905/transcript" type="text/html" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19881905/transcript.json" type="application/json" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19881905/transcript.srt" type="application/x-subrip" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19881905/transcript.vtt" type="text/vtt" />
-    <ns2:duration>1420</ns2:duration>
-    <ns2:keywords />
-    <ns2:season>18</ns2:season>
-    <ns2:episode>10</ns2:episode>
-    <ns2:episodeType>full</ns2:episodeType>
-    <ns2:explicit>false</ns2:explicit>
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19881905/transcript" type="text/html" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19881905/transcript.json" type="application/json" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19881905/transcript.srt" type="application/x-subrip" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19881905/transcript.vtt" type="text/vtt" />
+    <ns3:duration>1432</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>18</ns3:season>
+    <ns3:episode>10</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
   </item>
   <item>
-    <ns2:title>Friday Barnes and the Case of the Radioactive Hair</ns2:title>
+    <ns3:title>Friday Barnes and the Case of the Radioactive Hair</ns3:title>
     <title>Friday Barnes and the Case of the Radioactive Hair</title>
-    <ns2:summary>My new book FRIDAY BARNES 14, NOTHING TO LOSE came out this week so I've recorded the first two chapters for the podcast. It's a mini-mystery so even if you've never read any Friday Barnes before you'll still be able to enjoy it. Support the show at https://www.buymeacoffee.com/storiesraspratt  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymea...</ns2:summary>
-    <description>&lt;p&gt;My new book FRIDAY BARNES 14, NOTHING TO LOSE came out this week so I&amp;apos;ve recorded the first two chapters for the podcast. It&amp;apos;s a mini-mystery so even if you&amp;apos;ve never read any Friday Barnes before you&amp;apos;ll still be able to enjoy it.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
-    <ns3:encoded>&lt;p&gt;My new book FRIDAY BARNES 14, NOTHING TO LOSE came out this week so I&amp;apos;ve recorded the first two chapters for the podcast. It&amp;apos;s a mini-mystery so even if you&amp;apos;ve never read any Friday Barnes before you&amp;apos;ll still be able to enjoy it.&lt;/p&gt;&lt;p&gt;Support the show at &lt;a href='https://www.buymeacoffee.com/storiesraspratt'&gt;https://www.buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns3:encoded>
-    <enclosure url="https://www.buzzsprout.com/852289/episodes/19820307-friday-barnes-and-the-case-of-the-radioactive-hair.mp3" length="15991445" type="audio/mpeg" />
-    <ns2:author>R.A. Spratt</ns2:author>
+    <ns3:summary>My new book FRIDAY BARNES 14, NOTHING TO LOSE came out this week so I've recorded the first two chapters for the podcast. It's a mini-mystery so even if you've never read any Friday Barnes before you'll still be able to enjoy it. R.A. Spratt will be performing her live show 'Christmas Stories with R.A. Spratt' at theatres in Auckland, Perth, Sydney and Melbourne this December. Here's a link to get tickets... https://raspratt.com/live-shows/  If you enjoyed the podcast please like, review...</ns3:summary>
+    <description>&lt;p&gt;My new book FRIDAY BARNES 14, NOTHING TO LOSE came out this week so I&amp;apos;ve recorded the first two chapters for the podcast. It&amp;apos;s a mini-mystery so even if you&amp;apos;ve never read any Friday Barnes before you&amp;apos;ll still be able to enjoy it.&lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;My new book FRIDAY BARNES 14, NOTHING TO LOSE came out this week so I&amp;apos;ve recorded the first two chapters for the podcast. It&amp;apos;s a mini-mystery so even if you&amp;apos;ve never read any Friday Barnes before you&amp;apos;ll still be able to enjoy it.&lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/19820307-friday-barnes-and-the-case-of-the-radioactive-hair.mp3" length="16134073" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
     <guid isPermaLink="false">Buzzsprout-19820307</guid>
     <pubDate>Wed, 23 Sep 2026 06:00:00 +1000</pubDate>
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19820307/transcript" type="text/html" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19820307/transcript.json" type="application/json" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19820307/transcript.srt" type="application/x-subrip" />
-    <ns1:transcript url="https://www.buzzsprout.com/852289/19820307/transcript.vtt" type="text/vtt" />
-    <ns2:duration>1329</ns2:duration>
-    <ns2:keywords />
-    <ns2:season>18</ns2:season>
-    <ns2:episode>9</ns2:episode>
-    <ns2:episodeType>full</ns2:episodeType>
-    <ns2:explicit>false</ns2:explicit>
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19820307/transcript" type="text/html" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19820307/transcript.json" type="application/json" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19820307/transcript.srt" type="application/x-subrip" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/19820307/transcript.vtt" type="text/vtt" />
+    <ns3:duration>1340</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>18</ns3:season>
+    <ns3:episode>9</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
   </item>
   </channel>
 </rss>
