@@ -4,9 +4,9 @@
 <channel>
   <ns1:link href="https://rss.buzzsprout.com/852289.rss" rel="self" type="application/rss+xml" />
   <ns1:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
-  <title>R.A. Spratt Vol. 11 — Episodes 401–406</title>
+  <title>R.A. Spratt Vol. 11 — Episodes 401–407</title>
 
-  <lastBuildDate>Tue, 27 Oct 2026 15:00:03 -0400</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 14:00:01 -0500</lastBuildDate>
   <link>http://www.raspratt.com</link>
   <language>en-gb</language>
   <copyright>© 2026 Bedtime Stories with R.A. Spratt</copyright>
@@ -19,7 +19,7 @@
   <ns3:author>R.A. Spratt</ns3:author>
   <ns3:type>episodic</ns3:type>
   <ns3:explicit>false</ns3:explicit>
-  <description>Custom chronological volume 11 of Bedtime Stories with R.A. Spratt. Episodes 401–406 from the official podcast feed.</description>
+  <description>Custom chronological volume 11 of Bedtime Stories with R.A. Spratt. Episodes 401–407 from the official podcast feed.</description>
   <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
   <ns3:keywords>ra spratt, bedtime stories, author, nanny piggins, friday barnes, peski kids, R.A., kids stories, car stories, road trip stories, fairy tales</ns3:keywords>
   <ns3:owner>
@@ -41,6 +41,27 @@
     <ns3:category text="Comedy Fiction" />
   </ns3:category>
   <ns2:person role="host" href="http://raspratt.com" img="https://storage.buzzsprout.com/dvl4jzsy7f5a4e6ezan7ddrah0sl">R.A. Spratt</ns2:person>
+  <item>
+    <ns3:title>'Odysseys and the Final Trick' as told by Nanny Piggins</ns3:title>
+    <title>'Odysseys and the Final Trick' as told by Nanny Piggins</title>
+    <ns3:summary>In the final days of the Trojan War, Odysseus has her most ingenius idea ever - the Trojan Pig! Unfortunately, when it's built it doesn't look like a pig it looks like a horse.  R.A. Spratt will be performing her live show 'Christmas Stories with R.A. Spratt' at theatres in Auckland, Perth, Sydney and Melbourne this December. Here's a link to get tickets... https://raspratt.com/live-shows/  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one ...</ns3:summary>
+    <description>&lt;p&gt;In the final days of the Trojan War, Odysseus has her most ingenius idea ever - the Trojan Pig! Unfortunately, when it&amp;apos;s built it doesn&amp;apos;t look like a pig it looks like a horse. &lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;In the final days of the Trojan War, Odysseus has her most ingenius idea ever - the Trojan Pig! Unfortunately, when it&amp;apos;s built it doesn&amp;apos;t look like a pig it looks like a horse. &lt;/p&gt;&lt;p&gt;R.A. Spratt will be performing her live show &amp;apos;Christmas Stories with R.A. Spratt&amp;apos; at theatres in Auckland, Perth, Sydney and Melbourne this December. Here&amp;apos;s a link to get tickets... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/20058602-odysseys-and-the-final-trick-as-told-by-nanny-piggins.mp3" length="19608264" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-20058602</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +1100</pubDate>
+    <ns2:transcript url="https://www.buzzsprout.com/852289/20058602/transcript" type="text/html" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/20058602/transcript.json" type="application/json" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/20058602/transcript.srt" type="application/x-subrip" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/20058602/transcript.vtt" type="text/vtt" />
+    <ns3:duration>1630</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>18</ns3:season>
+    <ns3:episode>14</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
   <item>
     <ns3:title>'Odysseus and the Luck of Troy' as told by Nanny Piggins</ns3:title>
     <title>'Odysseus and the Luck of Troy' as told by Nanny Piggins</title>
