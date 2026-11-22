@@ -23,7 +23,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add pim-pim PIM_PIM_FEEDS.md
+          git add pim-pim PIM_PIM_FEEDS.md PIM_PIM_AUDIT.md
           if ! git diff --cached --quiet; then
             git commit -m "Refresh Pim Pim Yoto podcast feeds"
             git push
