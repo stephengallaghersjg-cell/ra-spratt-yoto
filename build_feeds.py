@@ -29,7 +29,8 @@ for start in range(0, len(items), PER):
         ch.find("title").text = f"R.A. Spratt Vol. {vol:02d} — Episodes {a:03d}–{b:03d}"
     if ch.find("description") is not None:
         ch.find("description").text = f"Custom chronological volume {vol} of Bedtime Stories with R.A. Spratt. Episodes {a}–{b} from the official podcast feed."
-    for it in reversed(chunk):
+    # Oldest first: Yoto plays down the list, so multipart stories stay in order.
+    for it in chunk:
         ch.append(copy.deepcopy(it))
     ET.ElementTree(newroot).write(os.path.join(OUT, f"ra-spratt-vol-{vol:02d}.xml"), encoding="utf-8", xml_declaration=True)
 
