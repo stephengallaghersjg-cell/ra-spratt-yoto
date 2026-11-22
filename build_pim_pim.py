@@ -33,7 +33,7 @@ def text_for(item):
 
 # Exclude generic promo links and boilerplate by matching story text only.
 # Pim Pim appears under several spellings including Pim-Pim and Pimpim.
-PATTERN = re.compile(r"\\bpim[\\s-]*pim\\b", re.I)
+PATTERN = re.compile(r"\bpim[\s-]*pim\b", re.I)
 matches = [item for item in items if PATTERN.search(text_for(item))]
 matches.sort(key=lambda item: parsedate_to_datetime(item.findtext("pubDate")).timestamp())
 if not matches:
@@ -67,14 +67,14 @@ for start in range(0, len(matches), PER):
         encoding="utf-8", xml_declaration=True)
 
 with open("PIM_PIM_FEEDS.md", "w", encoding="utf-8") as f:
-    f.write("# Pim Pim Yoto podcast feeds\\n\\n")
-    f.write(f"Source episodes checked: {len(items)}. Episodes mentioning Pim Pim in title/description: {len(matches)}. Volumes: {math.ceil(len(matches)/PER)}.\\n\\n")
+    f.write("# Pim Pim Yoto podcast feeds\n\n")
+    f.write(f"Source episodes checked: {len(items)}. Episodes mentioning Pim Pim in title/description: {len(matches)}. Volumes: {math.ceil(len(matches)/PER)}.\n\n")
     for start in range(0, len(matches), PER):
         vol = start // PER + 1
         chunk = matches[start:start+PER]
-        f.write(f"## Volume {vol:02d} ({len(chunk)} episodes)\\n\\n")
-        f.write(f"{BASE}/pim-pim-vol-{vol:02d}.xml\\n\\n")
+        f.write(f"## Volume {vol:02d} ({len(chunk)} episodes)\n\n")
+        f.write(f"{BASE}/pim-pim-vol-{vol:02d}.xml\n\n")
         for item in chunk:
-            f.write(f"- {item.findtext('title') or '(Untitled)'}\\n")
-        f.write("\\n")
+            f.write(f"- {item.findtext('title') or '(Untitled)'}\n")
+        f.write("\n")
 print(f"Checked {len(items)} source episodes; found {len(matches)} Pim Pim matches in {math.ceil(len(matches)/PER)} volumes")
