@@ -20,7 +20,6 @@ PER_VOLUME = 25
 # Pairs that are already both hidden are retained automatically.
 STORY_GROUPS = [
     ["Nanny Piggins and the Campaign Strategy - Part 1", "Nanny Piggins and the Campaign Strategy - Part 2"],
-    ["Nanny Piggins and the Grandmaster", "Nanny Piggins and the Grandmaster - Part 2"],
     ["Nanny Piggins and the Daring Rescue - Part 1", "Nanny Piggins and the Daring Rescue - Part 2"],
     ["'Boris and the Big Snore' with Nanny Piggins - Part 1", "'Boris and the Big Snore' with Nanny Piggins - Part 2"],
     ["Nanny Piggins and the Egg Challenge", "Nanny Piggins and the Eggs - Part 2"],
