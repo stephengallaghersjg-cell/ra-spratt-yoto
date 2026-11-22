@@ -1,0 +1,28 @@
+name: Build hidden Nanny Piggins Yoto feeds
+on:
+  push:
+    branches: [main]
+    paths:
+      - build_nanny_piggins_hidden.py
+      - .github/workflows/build-nanny-piggins-hidden.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python build_nanny_piggins_hidden.py
+      - name: Commit generated feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add nanny-piggins-hidden NANNY_PIGGINS_HIDDEN_FEEDS.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish previously hidden Nanny Piggins episodes and story companions"
+            git push
+          fi
