@@ -1,7 +1,7 @@
 # Nanny Piggins — previously hidden episodes
 
 Archived catalogue: 400 episodes; 83 Nanny Piggins entries hidden by the 25-of-40 limit.
-Added 3 story companions, for 86 total episodes in 4 volumes.
+Added 1 story companions, for 84 total episodes in 4 volumes.
 
 ## Volume 01 (25 episodes)
 
@@ -57,18 +57,16 @@ https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/n
 - 'The Legend of Lancelot' as told by Nanny Piggins - LIVE from Auckland NZ
 - Nanny Piggins and the Happy News
 - 'The True History of Archimedes' as told by Nanny Piggins
-- Nanny Piggins and the Grandmaster
-- Nanny Piggins and the Grandmaster - Part 2
 - Nanny Piggins and the Campaign Strategy - Part 1
 - Nanny Piggins and the Campaign Strategy - Part 2
 - 'The Quest for the Golden Sheet Cake' as told by Nanny Piggins
+- Holiday Rerun - 'Macbeth' as told by Nanny Piggins
+- Holiday Rerun - 'Nanny Piggins and the School Bus'
 
 ## Volume 03 (25 episodes)
 
 https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/nanny-piggins-hidden/nanny-piggins-hidden-vol-03.xml
 
-- Holiday Rerun - 'Macbeth' as told by Nanny Piggins
-- Holiday Rerun - 'Nanny Piggins and the School Bus'
 - 'The Story of Paul Bunyen' as told by Nanny Piggins
 - 'The Story of Johnny Appleseed' as told by Nanny Piggins
 - Nanny Piggins and the Daring Rescue - Part 1
@@ -92,13 +90,13 @@ https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/n
 - 'Joseph and his Rainbow Coat' as told by Nanny Piggins - Part 1 - Holiday Rerun
 - 'Joseph and his Rainbow Coat' as told by Nanny Piggins - Part 2 - Holiday Rerun
 - 'The Truth About the Loch Ness Monster' as told by Nanny Piggins - Holiday Rerun
+- 'The True History of St George' as told by Nanny Piggins - holiday rerun
+- 'The Story of Lady Godiva' as told by Nanny Piggins - Holiday Rerun
 
-## Volume 04 (11 episodes)
+## Volume 04 (9 episodes)
 
 https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/nanny-piggins-hidden/nanny-piggins-hidden-vol-04.xml
 
-- 'The True History of St George' as told by Nanny Piggins - holiday rerun
-- 'The Story of Lady Godiva' as told by Nanny Piggins - Holiday Rerun
 - 'The Story of Hermes' as told by Nanny Piggins
 - 'Odysseus Returns to Ithaca' as told by Nanny Piggins
 - 'Odysseus and the Triumphant Return' as told by Nanny Piggins
@@ -112,5 +110,3 @@ https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/n
 ## Extra companion episodes (previously visible)
 
 - Nanny Piggins and the Campaign Strategy - Part 1
-- Nanny Piggins and the Grandmaster
-- Nanny Piggins and the Grandmaster - Part 2
