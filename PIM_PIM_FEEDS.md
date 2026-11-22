@@ -23,11 +23,11 @@ https://raw.githubusercontent.com/stephengallaghersjg-cell/ra-spratt-yoto/main/p
 - 🏗️ PIM PIM! PUT THAT DOWN! 🏗️
 - 🏃📬 Pim Pim Plays Silly Scavenger Hunt 🌀🚗
 - 🚀✨ Pim Pim goes to Sydney 🥣😂
+- 🚤💨😱 Jet Ski Set Free 🏖️🦦
 - 🎶🎤🎙️ Pim Pim Goes to a Concert  🎚️ 🎛️🎸
 - 📚✨ Special Episode - Pim Pim Reeds Rong! ✨📚
 - 🟣 🔵 🟢 The Bounciest Ball 🟢 🔵 🟣
 - 📖 🌏 Special Episode - Pim Pim Reeds Rong - Where on Earth is Mum by Abbey Clerke 🌏 📖
-- SPECIAL ANOUNCEMENT - SECOND GOLD COAST SHOW!!
 - 🍦❄️🌈  Whether the Weather Be Ice-cream  🌈❄️🍦
 - 🍹🏊‍♂️🏠 Home Havoc 🏠🏊‍♂️🍹
 - 🎉 Pim Pim Reeds Rong - OK Let's Go by Silly Stories for Kids! 🎉
