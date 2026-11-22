@@ -1,0 +1,474 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns1="http://www.w3.org/2005/Atom" xmlns:ns2="https://podcastindex.org/namespace/1.0" xmlns:ns3="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns4="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<html:script src="https://www.buzzsprout.com/vendor/xslt-polyfill/xslt-polyfill-1.0.33.min.js" charset="utf-8" />
+<channel>
+  <ns1:link href="https://rss.buzzsprout.com/852289.rss" rel="self" type="application/rss+xml" />
+  <ns1:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+  <title>Nanny Piggins — Previously Hidden Vol. 03</title>
+
+  <lastBuildDate>Tue, 17 Nov 2026 14:00:06 -0500</lastBuildDate>
+  <link>http://www.raspratt.com</link>
+  <language>en-gb</language>
+  <copyright>© 2026 Bedtime Stories with R.A. Spratt</copyright>
+  <ns2:locked>yes</ns2:locked>
+  <ns2:funding url="https://www.buymeacoffee.com/storiesraspratt">Support this Podcast</ns2:funding>
+  <ns2:guid>7b4dcb18-18f9-5231-94a2-6c9fda75f48d</ns2:guid>
+<ns2:podroll>
+    <ns2:remoteItem feedGuid="5c7cd1b2-a19b-511a-9479-780ca4a50c5f" feedUrl="https://feeds.buzzsprout.com/2319192.rss" />
+  </ns2:podroll>
+  <ns3:author>R.A. Spratt</ns3:author>
+  <ns3:type>episodic</ns3:type>
+  <ns3:explicit>false</ns3:explicit>
+  <description>Previously hidden Nanny Piggins episodes, plus necessary multipart story companions; oldest first.</description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <ns3:keywords>ra spratt, bedtime stories, author, nanny piggins, friday barnes, peski kids, R.A., kids stories, car stories, road trip stories, fairy tales</ns3:keywords>
+  <ns3:owner>
+    <ns3:name>R.A. Spratt</ns3:name>
+  </ns3:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/xtm90y6dvl8iacfsqxfl6kdmsrcy?.jpg</url>
+     <title>Bedtime Stories with R.A. Spratt</title>
+     <link>http://www.raspratt.com</link>
+  </image>
+  <ns3:image href="https://storage.buzzsprout.com/xtm90y6dvl8iacfsqxfl6kdmsrcy?.jpg" />
+  <ns3:category text="Kids &amp; Family">
+    <ns3:category text="Stories for Kids" />
+  </ns3:category>
+  <ns3:category text="Arts">
+    <ns3:category text="Books" />
+  </ns3:category>
+  <ns3:category text="Fiction">
+    <ns3:category text="Comedy Fiction" />
+  </ns3:category>
+  <ns2:person role="host" href="http://raspratt.com" img="https://storage.buzzsprout.com/dvl4jzsy7f5a4e6ezan7ddrah0sl">R.A. Spratt</ns2:person>
+  <item>
+    <ns3:title>Holiday Rerun - 'Macbeth' as told by Nanny Piggins</ns3:title>
+    <title>Holiday Rerun - 'Macbeth' as told by Nanny Piggins</title>
+    <ns3:summary>I'm on holiday with my family this week so I'm planning this classic episode. I'll be back in two weeks with more adventures of 'Jason and the Quest for the Golden Sheet' cake. Best wishes, R.A. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... ...</ns3:summary>
+    <description>&lt;p&gt;I&amp;apos;m on holiday with my family this week so I&amp;apos;m planning this classic episode. I&amp;apos;ll be back in two weeks with more adventures of &amp;apos;Jason and the Quest for the Golden Sheet&amp;apos; cake. Best wishes, R.A.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;I&amp;apos;m on holiday with my family this week so I&amp;apos;m planning this classic episode. I&amp;apos;ll be back in two weeks with more adventures of &amp;apos;Jason and the Quest for the Golden Sheet&amp;apos; cake. Best wishes, R.A.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/15364255-holiday-rerun-macbeth-as-told-by-nanny-piggins.mp3" length="17182628" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-15364255</guid>
+    <pubDate>Mon, 09 Feb 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1428</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>12</ns3:season>
+    <ns3:episode>6</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>Holiday Rerun - 'Nanny Piggins and the School Bus'</ns3:title>
+    <title>Holiday Rerun - 'Nanny Piggins and the School Bus'</title>
+    <ns3:summary>I'm away on holiday with my family so this week I'm playing a rerun of a classic episode. I'll be back in one week to continue the story of 'Jason and his Quest for the Golden Sheet Cake'. Best wishes, R.A. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use t...</ns3:summary>
+    <description>&lt;p&gt;I&amp;apos;m away on holiday with my family so this week I&amp;apos;m playing a rerun of a classic episode. I&amp;apos;ll be back in one week to continue the story of &amp;apos;Jason and his Quest for the Golden Sheet Cake&amp;apos;. Best wishes, R.A.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;I&amp;apos;m away on holiday with my family so this week I&amp;apos;m playing a rerun of a classic episode. I&amp;apos;ll be back in one week to continue the story of &amp;apos;Jason and his Quest for the Golden Sheet Cake&amp;apos;. Best wishes, R.A.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/15364268-holiday-rerun-nanny-piggins-and-the-school-bus.mp3" length="23183373" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-15364268</guid>
+    <pubDate>Sun, 08 Feb 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1928</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>12</ns3:season>
+    <ns3:episode>6</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'The Story of Paul Bunyen' as told by Nanny Piggins</ns3:title>
+    <title>'The Story of Paul Bunyen' as told by Nanny Piggins</title>
+    <ns3:summary>When Boris has nasty roller skating accident due to his great height, Nanny Piggins comforts him that he is no where near as tall as Paul Bunyen. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book ...</ns3:summary>
+    <description>&lt;p&gt;When Boris has nasty roller skating accident due to his great height, Nanny Piggins comforts him that he is no where near as tall as Paul Bunyen.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;When Boris has nasty roller skating accident due to his great height, Nanny Piggins comforts him that he is no where near as tall as Paul Bunyen.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/15499414-the-story-of-paul-bunyen-as-told-by-nanny-piggins.mp3" length="14259842" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-15499414</guid>
+    <pubDate>Sat, 07 Feb 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1184</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>12</ns3:season>
+    <ns3:episode>8</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'The Story of Johnny Appleseed' as told by Nanny Piggins</ns3:title>
+    <title>'The Story of Johnny Appleseed' as told by Nanny Piggins</title>
+    <ns3:summary>After eating an apple pie, Nanny Piggins reveals that she is related to legendary American folk hero, Johnny Appleseed. And that in fact Johnny Appleseed's real name was Bramwell Appleseed. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https...</ns3:summary>
+    <description>&lt;p&gt;After eating an apple pie, Nanny Piggins reveals that she is related to legendary American folk hero, Johnny Appleseed. And that in fact Johnny Appleseed&amp;apos;s real name was Bramwell Appleseed.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;After eating an apple pie, Nanny Piggins reveals that she is related to legendary American folk hero, Johnny Appleseed. And that in fact Johnny Appleseed&amp;apos;s real name was Bramwell Appleseed.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/15523821-the-story-of-johnny-appleseed-as-told-by-nanny-piggins.mp3" length="13562696" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-15523821</guid>
+    <pubDate>Fri, 06 Feb 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1126</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>12</ns3:season>
+    <ns3:episode>9</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>Nanny Piggins and the Daring Rescue - Part 1</ns3:title>
+    <title>Nanny Piggins and the Daring Rescue - Part 1</title>
+    <ns3:summary>Nanny Piggins, Boris and the children travel to Vanuatu to rescue Mr Green. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https://raspratt.com/live-sho...</ns3:summary>
+    <description>&lt;p&gt;Nanny Piggins, Boris and the children travel to Vanuatu to rescue Mr Green.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Nanny Piggins, Boris and the children travel to Vanuatu to rescue Mr Green.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/15560769-nanny-piggins-and-the-daring-rescue-part-1.mp3" length="12492487" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-15560769</guid>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1037</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>12</ns3:season>
+    <ns3:episode>10</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>Nanny Piggins and the Daring Rescue - Part 2</ns3:title>
+    <title>Nanny Piggins and the Daring Rescue - Part 2</title>
+    <ns3:summary>This is the 2nd part of the story about Nanny Piggins mission to rescue Mr Green from being the national hero of Vanuatu.  NB. I realise there is a mistake in this episode where I say 'nannity's sanity' but I thought it was funny so I left it in. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://...</ns3:summary>
+    <description>&lt;p&gt;This is the 2nd part of the story about Nanny Piggins mission to rescue Mr Green from being the national hero of Vanuatu.&lt;br/&gt;&lt;br/&gt;NB. I realise there is a mistake in this episode where I say &amp;apos;nannity&amp;apos;s sanity&amp;apos; but I thought it was funny so I left it in.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;This is the 2nd part of the story about Nanny Piggins mission to rescue Mr Green from being the national hero of Vanuatu.&lt;br/&gt;&lt;br/&gt;NB. I realise there is a mistake in this episode where I say &amp;apos;nannity&amp;apos;s sanity&amp;apos; but I thought it was funny so I left it in.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/15599191-nanny-piggins-and-the-daring-rescue-part-2.mp3" length="14400575" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-15599191</guid>
+    <pubDate>Wed, 04 Feb 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1196</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>12</ns3:season>
+    <ns3:episode>11</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'The True History of Pigthagoras' as told by Nanny Piggins</ns3:title>
+    <title>'The True History of Pigthagoras' as told by Nanny Piggins</title>
+    <ns3:summary>When she discovers Derrick doing his maths homework, Nanny Piggins explains the true origins of Pythagoras' theorem.  'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show...</ns3:summary>
+    <description>&lt;p&gt;When she discovers Derrick doing his maths homework, Nanny Piggins explains the true origins of Pythagoras&amp;apos; theorem. &lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;When she discovers Derrick doing his maths homework, Nanny Piggins explains the true origins of Pythagoras&amp;apos; theorem. &lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/15636935-the-true-history-of-pigthagoras-as-told-by-nanny-piggins.mp3" length="15452920" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-15636935</guid>
+    <pubDate>Tue, 03 Feb 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1284</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>12</ns3:season>
+    <ns3:episode>12</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'The True History of St George' as told by Nanny Piggins</ns3:title>
+    <title>'The True History of St George' as told by Nanny Piggins</title>
+    <ns3:summary>Nanny Piggins tells Boris and the children the story of St George, what really happened - not what you may have seen written down in all the story books. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt ...</ns3:summary>
+    <description>&lt;p&gt;Nanny Piggins tells Boris and the children the story of St George, what really happened - not what you may have seen written down in all the story books.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Nanny Piggins tells Boris and the children the story of St George, what really happened - not what you may have seen written down in all the story books.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/15686063-the-true-history-of-st-george-as-told-by-nanny-piggins.mp3" length="14561096" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-15686063</guid>
+    <pubDate>Mon, 02 Feb 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1209</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>12</ns3:season>
+    <ns3:episode>13</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>Nanny Piggins and Her Dramatic Entrance</ns3:title>
+    <title>Nanny Piggins and Her Dramatic Entrance</title>
+    <ns3:summary>This the first chapter of the first Nanny Piggins book published back in 2008. On October 15th 2024 my latest book 'Nanny Piggins and the Origin Story' will be released. I though recording this chapter would be a good way to remind everyone where it all began, and get you all ready for the new book. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the...</ns3:summary>
+    <description>&lt;p&gt;This the first chapter of the first Nanny Piggins book published back in 2008. On October 15th 2024 my latest book &amp;apos;Nanny Piggins and the Origin Story&amp;apos; will be released. I though recording this chapter would be a good way to remind everyone where it all began, and get you all ready for the new book.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;This the first chapter of the first Nanny Piggins book published back in 2008. On October 15th 2024 my latest book &amp;apos;Nanny Piggins and the Origin Story&amp;apos; will be released. I though recording this chapter would be a good way to remind everyone where it all began, and get you all ready for the new book.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/15713618-nanny-piggins-and-her-dramatic-entrance.mp3" length="13615952" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-15713618</guid>
+    <pubDate>Sun, 01 Feb 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1131</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>12</ns3:season>
+    <ns3:episode>14</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'The Real Reason the Sea is Salt' according to Nanny Piggins</ns3:title>
+    <title>'The Real Reason the Sea is Salt' according to Nanny Piggins</title>
+    <ns3:summary>Nanny Piggins reveals the truth behind why the sea is salty. It does contradict everything Derrick has learned in science. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show...</ns3:summary>
+    <description>&lt;p&gt;Nanny Piggins reveals the truth behind why the sea is salty. It does contradict everything Derrick has learned in science.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Nanny Piggins reveals the truth behind why the sea is salty. It does contradict everything Derrick has learned in science.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/15760046-the-real-reason-the-sea-is-salt-according-to-nanny-piggins.mp3" length="13277133" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-15760046</guid>
+    <pubDate>Sat, 31 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1102</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>12</ns3:season>
+    <ns3:episode>15</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'The Jade Rabbit and the Moon' as told by Nanny Piggins</ns3:title>
+    <title>'The Jade Rabbit and the Moon' as told by Nanny Piggins</title>
+    <ns3:summary>Nanny Piggins explains how we know that the moon is not made of cheese, and how it has to do with the rabbit who lives there. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live s...</ns3:summary>
+    <description>&lt;p&gt;Nanny Piggins explains how we know that the moon is not made of cheese, and how it has to do with the rabbit who lives there.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Nanny Piggins explains how we know that the moon is not made of cheese, and how it has to do with the rabbit who lives there.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/15798737-the-jade-rabbit-and-the-moon-as-told-by-nanny-piggins.mp3" length="11977166" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-15798737</guid>
+    <pubDate>Fri, 30 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>994</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>12</ns3:season>
+    <ns3:episode>16</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'The Story of Chang e and the Moon' as told by Nanny Piggins</ns3:title>
+    <title>'The Story of Chang e and the Moon' as told by Nanny Piggins</title>
+    <ns3:summary>Nanny Piggins tells Boris and the children all about her distant relative Chang e and how she came to live on the moon. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show us...</ns3:summary>
+    <description>&lt;p&gt;Nanny Piggins tells Boris and the children all about her distant relative Chang e and how she came to live on the moon.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Nanny Piggins tells Boris and the children all about her distant relative Chang e and how she came to live on the moon.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/15848281-the-story-of-chang-e-and-the-moon-as-told-by-nanny-piggins.mp3" length="11886269" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-15848281</guid>
+    <pubDate>Thu, 29 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>986</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>12</ns3:season>
+    <ns3:episode>17</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'Aesop and the Sour Grapes' as told by Nanny Piggins</ns3:title>
+    <title>'Aesop and the Sour Grapes' as told by Nanny Piggins</title>
+    <ns3:summary>When Michael misses out on elected office at school, Nanny Piggins explains the ancient origins of the expression 'sour grapes'.    'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a ...</ns3:summary>
+    <description>&lt;p&gt;When Michael misses out on elected office at school, Nanny Piggins explains the ancient origins of the expression &amp;apos;sour grapes&amp;apos;.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;When Michael misses out on elected office at school, Nanny Piggins explains the ancient origins of the expression &amp;apos;sour grapes&amp;apos;.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/15887338-aesop-and-the-sour-grapes-as-told-by-nanny-piggins.mp3" length="13384324" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-15887338</guid>
+    <pubDate>Wed, 28 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1111</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>12</ns3:season>
+    <ns3:episode>18</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'Odyssseus and the Evil Enchantress' as told by Nanny Piggins</ns3:title>
+    <title>'Odyssseus and the Evil Enchantress' as told by Nanny Piggins</title>
+    <ns3:summary>When Odysseus's men are turned into monsters, he has to go and rescue them from a staggeringly beautiful and evil enchantress. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live ...</ns3:summary>
+    <description>&lt;p&gt;When Odysseus&amp;apos;s men are turned into monsters, he has to go and rescue them from a staggeringly beautiful and evil enchantress.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;When Odysseus&amp;apos;s men are turned into monsters, he has to go and rescue them from a staggeringly beautiful and evil enchantress.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/16929442-odyssseus-and-the-evil-enchantress-as-told-by-nanny-piggins.mp3" length="15470794" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-16929442</guid>
+    <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1285</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>14</ns3:season>
+    <ns3:episode>16</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>Holiday Rerun - Nanny Piggins and the Ghosts of Easter</ns3:title>
+    <title>Holiday Rerun - Nanny Piggins and the Ghosts of Easter</title>
+    <ns3:summary>Every Easter Nanny Piggins goes on a  shameless chocolate eating frenzy. Her Easter egg guzzling is so out of control it frightens children, and adults and even the Police Sergeant. So Derrick, Samantha and Michael come up with an idea to convince their beloved Nanny to behave better, just this once. They visit her in the night dressed up as the ghosts of Easter past, present and future. Will she reform her ways? Listen and find out! 'The Nanny Piggins Guide to Conquering Christmas' and ...</ns3:summary>
+    <description>&lt;p&gt;Every Easter Nanny Piggins goes on a  shameless chocolate eating frenzy. Her Easter egg guzzling is so out of control it frightens children, and adults and even the Police Sergeant. So Derrick, Samantha and Michael come up with an idea to convince their beloved Nanny to behave better, just this once. They visit her in the night dressed up as the ghosts of Easter past, present and future. Will she reform her ways? Listen and find out!&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Every Easter Nanny Piggins goes on a  shameless chocolate eating frenzy. Her Easter egg guzzling is so out of control it frightens children, and adults and even the Police Sergeant. So Derrick, Samantha and Michael come up with an idea to convince their beloved Nanny to behave better, just this once. They visit her in the night dressed up as the ghosts of Easter past, present and future. Will she reform her ways? Listen and find out!&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/16923606-holiday-rerun-nanny-piggins-and-the-ghosts-of-easter.mp3" length="19055302" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-16923606</guid>
+    <pubDate>Mon, 26 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1584</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>14</ns3:season>
+    <ns3:episode>14</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>Holiday Rerun - Nanny Piggins and the Last Cake of the Romanovs</ns3:title>
+    <title>Holiday Rerun - Nanny Piggins and the Last Cake of the Romanovs</title>
+    <ns3:summary>Nanny Piggins recalls the time she was banned from the Hermitage Museum for attempting to eat a historic artefact. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use thi...</ns3:summary>
+    <description>&lt;p&gt;Nanny Piggins recalls the time she was banned from the Hermitage Museum for attempting to eat a historic artefact.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Nanny Piggins recalls the time she was banned from the Hermitage Museum for attempting to eat a historic artefact.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/16923952-holiday-rerun-nanny-piggins-and-the-last-cake-of-the-romanovs.mp3" length="22621662" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-16923952</guid>
+    <pubDate>Sun, 25 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1881</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>14</ns3:season>
+    <ns3:episode>15</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'Noah's Ark' as told by Nanny Piggins</ns3:title>
+    <title>'Noah's Ark' as told by Nanny Piggins</title>
+    <ns3:summary>One rainy day, after Mrs Lau's fishpond has overflowed, Nanny Piggins tells the story of Noah's Ark which she just happens to know all about because Noah was a distant relative of hers. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://b...</ns3:summary>
+    <description>&lt;p&gt;One rainy day, after Mrs Lau&amp;apos;s fishpond has overflowed, Nanny Piggins tells the story of Noah&amp;apos;s Ark which she just happens to know all about because Noah was a distant relative of hers.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;One rainy day, after Mrs Lau&amp;apos;s fishpond has overflowed, Nanny Piggins tells the story of Noah&amp;apos;s Ark which she just happens to know all about because Noah was a distant relative of hers.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/17062829-noah-s-ark-as-told-by-nanny-piggins.mp3" length="13705286" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-17062829</guid>
+    <pubDate>Sat, 24 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1138</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>14</ns3:season>
+    <ns3:episode>17</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'Aranche, Athena and the Origin of Spiders' as told by Nanny Piggins</ns3:title>
+    <title>'Aranche, Athena and the Origin of Spiders' as told by Nanny Piggins</title>
+    <ns3:summary>Nanny Piggins tells the story of her fabulously talented distant cousin, who was so good at cake decorating she caused the invention of spiders. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a...</ns3:summary>
+    <description>&lt;p&gt;Nanny Piggins tells the story of her fabulously talented distant cousin, who was so good at cake decorating she caused the invention of spiders.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Nanny Piggins tells the story of her fabulously talented distant cousin, who was so good at cake decorating she caused the invention of spiders.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/17106689-aranche-athena-and-the-origin-of-spiders-as-told-by-nanny-piggins.mp3" length="15577701" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-17106689</guid>
+    <pubDate>Fri, 23 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1294</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>14</ns3:season>
+    <ns3:episode>18</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>Nanny Piggins and the Egg Challenge</ns3:title>
+    <title>Nanny Piggins and the Egg Challenge</title>
+    <ns3:summary>It's Egg Week at Derrick, Samantha and Michael's school. Each of them has to perform a different egg based challenge. Technically, it's not a competition. And yet, Nanny Piggins is determined to see that each of them win. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me...</ns3:summary>
+    <description>&lt;p&gt;It&amp;apos;s Egg Week at Derrick, Samantha and Michael&amp;apos;s school. Each of them has to perform a different egg based challenge. Technically, it&amp;apos;s not a competition. And yet, Nanny Piggins is determined to see that each of them win.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;It&amp;apos;s Egg Week at Derrick, Samantha and Michael&amp;apos;s school. Each of them has to perform a different egg based challenge. Technically, it&amp;apos;s not a competition. And yet, Nanny Piggins is determined to see that each of them win.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/17137347-nanny-piggins-and-the-egg-challenge.mp3" length="15987966" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-17137347</guid>
+    <pubDate>Thu, 22 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1328</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>14</ns3:season>
+    <ns3:episode>19</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>Nanny Piggins and the Eggs - Part 2</ns3:title>
+    <title>Nanny Piggins and the Eggs - Part 2</title>
+    <ns3:summary>After working hard all week at egg spinning, egg protecting and egg dropping, Nanny Piggins and the Green children test their skills at their school's annual egg festival. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.co...</ns3:summary>
+    <description>&lt;p&gt;After working hard all week at egg spinning, egg protecting and egg dropping, Nanny Piggins and the Green children test their skills at their school&amp;apos;s annual egg festival.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;After working hard all week at egg spinning, egg protecting and egg dropping, Nanny Piggins and the Green children test their skills at their school&amp;apos;s annual egg festival.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/17194433-nanny-piggins-and-the-eggs-part-2.mp3" length="18396665" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-17194433</guid>
+    <pubDate>Wed, 21 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1529</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>14</ns3:season>
+    <ns3:episode>20</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'The Origin of Thor's Hammer' as told by Nanny Piggins</ns3:title>
+    <title>'The Origin of Thor's Hammer' as told by Nanny Piggins</title>
+    <ns3:summary>After using a hammer to assist a neighbour in getting into their home, Nanny Piggins tells the children the story of her distant relative from the ancient Norse Mythology days - Loki Piggins and how Thor's hammer came to be made. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 T...</ns3:summary>
+    <description>&lt;p&gt;After using a hammer to assist a neighbour in getting into their home, Nanny Piggins tells the children the story of her distant relative from the ancient Norse Mythology days - Loki Piggins and how Thor&amp;apos;s hammer came to be made.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;After using a hammer to assist a neighbour in getting into their home, Nanny Piggins tells the children the story of her distant relative from the ancient Norse Mythology days - Loki Piggins and how Thor&amp;apos;s hammer came to be made.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/17394332-the-origin-of-thor-s-hammer-as-told-by-nanny-piggins.mp3" length="19019567" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-17394332</guid>
+    <pubDate>Tue, 20 Jan 2026 12:00:00 GMT</pubDate>
+    <ns2:transcript url="https://www.buzzsprout.com/852289/17394332/transcript" type="text/html" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/17394332/transcript.json" type="application/json" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/17394332/transcript.srt" type="application/x-subrip" />
+    <ns2:transcript url="https://www.buzzsprout.com/852289/17394332/transcript.vtt" type="text/vtt" />
+    <ns3:duration>1581</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>14</ns3:season>
+    <ns3:episode>25</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'The Time Thor's Hammer Got Stolen' as told by Nanny Piggins</ns3:title>
+    <title>'The Time Thor's Hammer Got Stolen' as told by Nanny Piggins</title>
+    <ns3:summary>Nanny Piggins tells the story of what really happened when Thor's hammer got stolen and how her distant relative Bramwell Loki Piggins was involved. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To bo...</ns3:summary>
+    <description>&lt;p&gt;Nanny Piggins tells the story of what really happened when Thor&amp;apos;s hammer got stolen and how her distant relative Bramwell Loki Piggins was involved.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Nanny Piggins tells the story of what really happened when Thor&amp;apos;s hammer got stolen and how her distant relative Bramwell Loki Piggins was involved.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/17470008-the-time-thor-s-hammer-got-stolen-as-told-by-nanny-piggins.mp3" length="17575112" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-17470008</guid>
+    <pubDate>Mon, 19 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1460</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>14</ns3:season>
+    <ns3:episode>27</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'Joseph and his Rainbow Coat' as told by Nanny Piggins - Part 1 - Holiday Rerun</ns3:title>
+    <title>'Joseph and his Rainbow Coat' as told by Nanny Piggins - Part 1 - Holiday Rerun</title>
+    <ns3:summary>Nanny Piggins tells the story of Joseph and his rainbow coat. NB. I will post the second part tomorrow as a bonus episode. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show...</ns3:summary>
+    <description>&lt;p&gt;Nanny Piggins tells the story of Joseph and his rainbow coat. NB. I will post the second part tomorrow as a bonus episode.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Nanny Piggins tells the story of Joseph and his rainbow coat. NB. I will post the second part tomorrow as a bonus episode.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/18377556-joseph-and-his-rainbow-coat-as-told-by-nanny-piggins-part-1-holiday-rerun.mp3" length="11262190" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-18377556</guid>
+    <pubDate>Sun, 18 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>934</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>15</ns3:season>
+    <ns3:episode>1</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'Joseph and his Rainbow Coat' as told by Nanny Piggins - Part 2 - Holiday Rerun</ns3:title>
+    <title>'Joseph and his Rainbow Coat' as told by Nanny Piggins - Part 2 - Holiday Rerun</title>
+    <ns3:summary>Nanny Piggins finishes the gripping tale of Joseph, his coat and his incredibly naughty brothers. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt To book a ticket to a live show use this link... https:/...</ns3:summary>
+    <description>&lt;p&gt;Nanny Piggins finishes the gripping tale of Joseph, his coat and his incredibly naughty brothers.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Nanny Piggins finishes the gripping tale of Joseph, his coat and his incredibly naughty brothers.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/18377568-joseph-and-his-rainbow-coat-as-told-by-nanny-piggins-part-2-holiday-rerun.mp3" length="12243036" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-18377568</guid>
+    <pubDate>Sat, 17 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1016</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>15</ns3:season>
+    <ns3:episode>2</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  <item>
+    <ns3:title>'The Truth About the Loch Ness Monster' as told by Nanny Piggins - Holiday Rerun</ns3:title>
+    <title>'The Truth About the Loch Ness Monster' as told by Nanny Piggins - Holiday Rerun</title>
+    <ns3:summary>Nanny Piggins knows the real story about the Loch Ness Monster, because she just happens to be a distant relative from the McPiggins branch of the family. 'The Nanny Piggins Guide to Conquering Christmas' and 'Friday Barnes 6, Danger Ahead' are now available as audiobooks.  If you enjoyed the podcast please like, review and/or subscribe! Support the show To buy one of my books use this link... https://amzn.to/3sE3Ki2 To buy me a coffee use this link... https://buymeacoffee.com/storiesraspratt...</ns3:summary>
+    <description>&lt;p&gt;Nanny Piggins knows the real story about the Loch Ness Monster, because she just happens to be a distant relative from the McPiggins branch of the family.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</description>
+    <ns4:encoded>&lt;p&gt;Nanny Piggins knows the real story about the Loch Ness Monster, because she just happens to be a distant relative from the McPiggins branch of the family.&lt;/p&gt;&lt;p&gt;&amp;apos;The Nanny Piggins Guide to Conquering Christmas&amp;apos; and &amp;apos;Friday Barnes 6, Danger Ahead&amp;apos; are now available as audiobooks.&lt;/p&gt; &lt;p&gt;If you enjoyed the podcast please like, review and/or subscribe!&lt;/p&gt;&lt;p&gt;&lt;a rel="payment" href="https://www.buymeacoffee.com/storiesraspratt"&gt;Support the show&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy one of my books use this link... &lt;a href='https://amzn.to/3sE3Ki2'&gt;https://amzn.to/3sE3Ki2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To buy me a coffee use this link... &lt;a href='https://buymeacoffee.com/storiesraspratt'&gt;https://buymeacoffee.com/storiesraspratt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To book a ticket to a live show use this link... &lt;a href='https://raspratt.com/live-shows/'&gt;https://raspratt.com/live-shows/&lt;/a&gt;&lt;/p&gt;</ns4:encoded>
+    <enclosure url="https://www.buzzsprout.com/852289/episodes/18377637-the-truth-about-the-loch-ness-monster-as-told-by-nanny-piggins-holiday-rerun.mp3" length="16273314" type="audio/mpeg" />
+    <ns3:author>R.A. Spratt</ns3:author>
+    <guid isPermaLink="false">Buzzsprout-18377637</guid>
+    <pubDate>Fri, 16 Jan 2026 12:00:00 GMT</pubDate>
+    <ns3:duration>1352</ns3:duration>
+    <ns3:keywords />
+    <ns3:season>15</ns3:season>
+    <ns3:episode>3</ns3:episode>
+    <ns3:episodeType>full</ns3:episodeType>
+    <ns3:explicit>false</ns3:explicit>
+  </item>
+  </channel>
+</rss>
