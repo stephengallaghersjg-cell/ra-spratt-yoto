@@ -34,7 +34,17 @@ def text_for(item):
 # Exclude generic promo links and boilerplate by matching story text only.
 # Pim Pim appears under several spellings including Pim-Pim and Pimpim.
 PATTERN = re.compile(r"\bpim[\s-]*pim\b", re.I)
-matches = [item for item in items if PATTERN.search(text_for(item))]
+# Some older source items have empty descriptions; Jet Ski Set Free is independently
+# documented as a Pim Pim story. Exclude promotional announcements, not stories.
+CONFIRMED_WITHOUT_RSS_DESCRIPTION = {"jet ski set free"}
+matches = []
+for item in items:
+    title = item.findtext("title") or ""
+    normalized = title.casefold()
+    if "announcement" in normalized or "anouncement" in normalized:
+        continue
+    if PATTERN.search(text_for(item)) or any(name in normalized for name in CONFIRMED_WITHOUT_RSS_DESCRIPTION):
+        matches.append(item)
 matches.sort(key=lambda item: parsedate_to_datetime(item.findtext("pubDate")).timestamp())
 if not matches:
     raise RuntimeError("No Pim Pim episodes matched")
