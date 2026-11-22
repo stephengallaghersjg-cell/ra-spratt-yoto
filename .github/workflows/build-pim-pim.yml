@@ -1,0 +1,30 @@
+name: Build Pim Pim Yoto feeds
+on:
+  push:
+    branches: [main]
+    paths:
+      - build_pim_pim.py
+      - .github/workflows/build-pim-pim.yml
+  workflow_dispatch:
+  schedule:
+    - cron: '23 8 * * 1'
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python build_pim_pim.py
+      - name: Commit generated feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pim-pim PIM_PIM_FEEDS.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh Pim Pim Yoto podcast feeds"
+            git push
+          fi
