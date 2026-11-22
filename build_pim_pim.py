@@ -38,6 +38,14 @@ matches = [item for item in items if PATTERN.search(text_for(item))]
 matches.sort(key=lambda item: parsedate_to_datetime(item.findtext("pubDate")).timestamp())
 if not matches:
     raise RuntimeError("No Pim Pim episodes matched")
+with open("PIM_PIM_AUDIT.md", "w", encoding="utf-8") as audit:
+    audit.write("# Pim Pim feed selection audit\\n\\n")
+    for item in items:
+        title = item.findtext("title") or ""
+        if any(term in title.lower() for term in ["jet ski", "gold coast", "missing socks", "puzzle blaster", "bounciest ball", "home havoc", "announcement"]):
+            raw = text_for(item)
+            audit.write(f"## {title}\\n\\nMatched: {bool(PATTERN.search(raw))}\\n\\nDescription sample: {raw[:800]}\\n\\n")
+
 
 os.makedirs(OUT, exist_ok=True)
 for filename in os.listdir(OUT):
